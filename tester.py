@@ -5,7 +5,7 @@ import sys, getopt, os
 
 def searchGoogle(textSearch):
     print("Starting Google Scholar Search")
-    os.system("scholar.py -c 5 --phrase %s" % textSearch)
+    os.system("scholar.py -c 40 --phrase %s" % textSearch)
 
 def main(argv):
    textSearch = ''
