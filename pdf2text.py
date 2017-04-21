@@ -3,6 +3,9 @@ from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from cStringIO import StringIO
+import sys
+
+
 
 def convert_pdf_to_txt(path):
     rsrcmgr = PDFResourceManager()
@@ -25,7 +28,13 @@ def convert_pdf_to_txt(path):
     fp.close()
     device.close()
     retstr.close()
+
     return text
     
-
-print convert_pdf_to_txt('C:/Users/Ian/Desktop/fulltext.pdf')
+#sys.stdout=open("test2.txt","w")
+text = convert_pdf_to_txt('C:/Users/Ian/Desktop/fulltext.pdf') 
+#sys.stdout.close()
+#write to test2.txt file
+f =open('C:/Users/Ian/Desktop/pdfDump/test2.txt', 'w')
+f.write(text)
+f.close()
