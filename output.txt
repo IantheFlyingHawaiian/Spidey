@@ -1,85 +1,101 @@
-         Title The soldier and the state: The theory and politics of civil-military relations
-           URL http://books.google.com/books?hl=en&lr=&id=1PqFe0rsfdcC&oi=fnd&pg=PA1&dq=%22Military%22&ots=FmIOp8qE1e&sig=um4fPSb9Un3qSs0SyJDK7o0u8Oo
-          Year 1957
-     Citations 4486
-      Versions 2
-    Cluster ID 17691352498674845316
-Citations list http://scholar.google.com/scholar?cites=17691352498674845316&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=17691352498674845316&hl=en&as_sdt=0,5
-       Excerpt Bogen er udkommet i 1957 og senere hyppigt genoptrykt. Dens tema er den militære profession og dens relationer til det civile samfund. Indhold: Officership as a profession; The rise of the military profession in western society; The military mind: conservative realism of 
-
-         Title Imagining war: French and British military doctrine between the wars
-           URL http://press.princeton.edu/titles/6068.html
-          Year 1997
-     Citations 469
-      Versions 2
-    Cluster ID 6280671002616090504
-Citations list http://scholar.google.com/scholar?cites=6280671002616090504&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=6280671002616090504&hl=en&as_sdt=0,5
-       Excerpt In this innovative theoretical book, Elizabeth Kier uses a cultural approach to take issue with the conventional wisdom that military organizations inherently prefer offensive doctrines. Kier argues instead that a military's culture affects its choices between offensive and 
-
-         Title A history of militarism: civilian and military
-          Year 1967
-     Citations 668
-      Versions 0
-    Cluster ID 6575435729499744528
-Citations list http://scholar.google.com/scholar?cites=6575435729499744528&as_sdt=2005&sciodt=0,5&hl=en
-
-         Title Soldiers in politics: military coups and governments
+         Title Serum α-fetoprotein in a mouse strain (C3H-Avy fB) with spontaneous hepatocellular carcinomas
+           URL http://cancerres.aacrjournals.org/content/37/3/870.short
           Year 1977
-     Citations 855
-      Versions 0
-    Cluster ID 2590761371940735492
-Citations list http://scholar.google.com/scholar?cites=2590761371940735492&as_sdt=2005&sciodt=0,5&hl=en
+     Citations 44
+      Versions 6
+    Cluster ID 5627008361600450869
+Citations list http://scholar.google.com/scholar?cites=5627008361600450869&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5627008361600450869&hl=en&as_sdt=0,5
+       Excerpt ... moms,such as chromosomal composition, we cannot relate their functional capacity to that ofother systems. Further, several mouse THC from other sources have been tested and demonstratelevels of productivity as high as those of natand human tumors. REFERENCES ...
 
-         Title The postmodern military: Armed forces after the Cold War
+         Title A new mutation (sph) causing neonatal jaundice in the house mouse
+           URL http://www.nrcresearchpress.com/doi/pdf/10.1139/g62-026
+          Year 1962
+     Citations 27
+      Versions 5
+    Cluster ID 15029656537049760297
+Citations list http://scholar.google.com/scholar?cites=15029656537049760297&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15029656537049760297&hl=en&as_sdt=0,5
+       Excerpt ... In the deer mouse thc defect is determined by an autosonlal recessive gene (as it is in thc housemouse), while in man it is usually deter- mined by an autosomal dominant, although there areindications that in certain instances rare recessive genes may produce the same ...
+
+         Title Identification of novel human genes evolutionarily conserved in Caenorhabditis elegans by comparative proteomics
+           URL http://genome.cshlp.org/content/10/5/703.short
           Year 2000
-     Citations 648
-      Versions 0
-    Cluster ID 9301372745765140223
-Citations list http://scholar.google.com/scholar?cites=9301372745765140223&as_sdt=2005&sciodt=0,5&hl=en
+     Citations 264
+      Versions 9
+    Cluster ID 12313069539358793665
+Citations list http://scholar.google.com/scholar?cites=12313069539358793665&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12313069539358793665&hl=en&as_sdt=0,5
+       Excerpt ... There were 15,558 out of 18,452 proteins found to have matched mouse THC entries. Theseresults indicate that at least 84% of C. elegans proteome potentially have mouse orthologs. Thenumbers were remarkably similar to those presented for HGI searches. ...
 
-         Title A comparison of commercial and military computer security policies
-           URL http://ieeexplore.ieee.org/abstract/document/6234890/
-          Year 1987
-     Citations 1685
-      Versions 10
-    Cluster ID 2775153986653272557
-Citations list http://scholar.google.com/scholar?cites=2775153986653272557&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=2775153986653272557&hl=en&as_sdt=0,5
-       Excerpt Abstract: Most discussions of computer security focus on control of disclosure. In Particular, the US Department of Defense has developed a set of criteria for computer mechanisms to provide control of classified information. However, for that core of data processing 
-
-         Title Cutaneous neoplasms in a military population of HIV-1-positive patients
-           URL http://www.sciencedirect.com/science/article/pii/0190962293702025
-          Year 1993
-     Citations 66
+         Title IL-1β and TNFα modulate Δ 9-tetrahydrocannabinol-induced catalepsy in mice
+           URL http://www.sciencedirect.com/science/article/pii/009130579400270S
+          Year 1995
+     Citations 6
       Versions 7
-    Cluster ID 5194943055733288312
-Citations list http://scholar.google.com/scholar?cites=5194943055733288312&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=5194943055733288312&hl=en&as_sdt=0,5
-       Excerpt Background: In HIV-1-positive patients there have been no prospective studies that show an increase in cutaneous neoplasms. Objective: We observed HIV-1-positive patients to determine whether or not there was an increased incidence of cutaneous malignancies. 
+    Cluster ID 6913696661061704256
+Citations list http://scholar.google.com/scholar?cites=6913696661061704256&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6913696661061704256&hl=en&as_sdt=0,5
+       Excerpt ... Recombinant IL-1α and IL-6 did not potentiate catalepsy at any dose tested. Anti-IL-1β andanti-TNFα antibodies were effective in attenuating high-dose (75 μg/ mouse) THC-inducedcatalepsy. Antibodies to IL-1α and IL-6 had no effect on catalepsy. ...
 
-         Title Flying qualities of piloted airplanes
-          Year 1980
-     Citations 141
-      Versions 0
-    Cluster ID 7219060218085765067
-Citations list http://scholar.google.com/scholar?cites=7219060218085765067&as_sdt=2005&sciodt=0,5&hl=en
+         Title Blockade of cannabinoid-induced antinociception by norbinaltorphimine, but not N, N-diallyl-tyrosine-Aib-phenylalanine-leucine, ICI 174,864 or naloxone in mice.
+           URL http://jpet.aspetjournals.org/content/265/2/633.short
+          Year 1993
+     Citations 91
+      Versions 4
+    Cluster ID 1633055465403027145
+Citations list http://scholar.google.com/scholar?cites=1633055465403027145&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=1633055465403027145&hl=en&as_sdt=0,5
+       Excerpt Page 1. Vol. 265, No. 2 Printed in USA ABSTRACT ABBREVIATIONS: it., intrathecally;THC, tetrahydrocannabinol; nor-BNI, norbinaltorphine; DMSO, dimethyl sulfoxide; ICI174,864, N,N-diallyl-Tyr- Aib-Phe-Leu; %MPE, percentage ...
 
-         Title Mental health problems, use of mental health services, and attrition from military service after returning from deployment to Iraq or Afghanistan
-           URL http://jamanetwork.com/journals/jama/fullarticle/202463
-          Year 2006
-     Citations 1746
-      Versions 21
-    Cluster ID 8622784178303169558
-Citations list http://scholar.google.com/scholar?cites=8622784178303169558&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=8622784178303169558&hl=en&as_sdt=0,5
-       Excerpt Objectives To determine the relationship between combat deployment and mental health care use during the first year after return and to assess the lessons learned from the postdeployment mental health screening effort, particularly the correlation between the 
+         Title In vitro maturation of immature thymocytes into immunocompetent T cells in the absence of direct thymic influence
+           URL http://jem.rupress.org/content/148/1/32.abstract
+          Year 1978
+     Citations 111
+      Versions 10
+    Cluster ID 786302724380312539
+Citations list http://scholar.google.com/scholar?cites=786302724380312539&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=786302724380312539&hl=en&as_sdt=0,5
+       Excerpt ... Discussion Some of the present observations confirm and extend the findings of Reisneret al. (3), showing that mouse Thc can be divided into two classes of cells, distinguishedby the presence or absence of surface membrane receptors for PNL. ...
 
-         Title The Military: More than just a job?
-          Year 1988
-     Citations 313
-      Versions 0
-    Cluster ID 16475965035439871261
-Citations list http://scholar.google.com/scholar?cites=16475965035439871261&as_sdt=2005&sciodt=0,5&hl=en
+         Title Naloxone-induced or postwithdrawal abstinence signs in Δ 9-tetrahydrocannabinol-tolerant rats
+           URL http://www.springerlink.com/index/y58703w008472536.pdf
+          Year 1977
+     Citations 96
+      Versions 5
+    Cluster ID 3717558840889779174
+      PDF link http://www.springerlink.com/index/y58703w008472536.pdf
+Citations list http://scholar.google.com/scholar?cites=3717558840889779174&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=3717558840889779174&hl=en&as_sdt=0,5
+       Excerpt ... Buxbaum et al. (1969) reported that in the mouse THC potentiated the Straub tail and the in-crease in locomotor activity produced by morphine. In both mouse and rat, a combination of lowdoses of morphine and THC produced greater than additive effects in analgesia tests. ...
+
+         Title Biologic effects of intrauterine devices
+           URL http://www.sciencedirect.com/science/article/pii/S0002937815337133
+          Year 1968
+     Citations 64
+      Versions 7
+    Cluster ID 1639896912206091613
+Citations list http://scholar.google.com/scholar?cites=1639896912206091613&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=1639896912206091613&hl=en&as_sdt=0,5
+       Excerpt Skip to content: ...
+
+         Title Kappa opioid mediation of cannabinoid effects of the potent hallucinogen, salvinorin A, in rodents
+           URL http://link.springer.com/article/10.1007/s00213-010-1827-6
+          Year 2010
+     Citations 32
+      Versions 16
+    Cluster ID 7713143324845435566
+Citations list http://scholar.google.com/scholar?cites=7713143324845435566&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7713143324845435566&hl=en&as_sdt=0,5
+       Excerpt ... 1995; Wiley 1999). In addition, the procedure has been used as an animal modelof marijuana intoxication (Balster and Prescott 1992). In our mouse THCdiscrimination model, salvinorin A did not elicit THC-like responding. ...
+
+         Title Unraveling the complexities of cannabinoid receptor 2 (CB2) immune regulation in health and disease
+           URL http://link.springer.com/article/10.1007/s12026-011-8210-5
+          Year 2011
+     Citations 87
+      Versions 9
+    Cluster ID 3619133629634143552
+Citations list http://scholar.google.com/scholar?cites=3619133629634143552&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=3619133629634143552&hl=en&as_sdt=0,5
+       Excerpt ... SR144528 [52]. In mouse, THC addition to co-cultures of activated macrophages anda T cell hybridoma stimulated by the addition of anti-CD3 lead to a reduction in IL-2production by the T cells in a dose-dependent manner. When ...
 

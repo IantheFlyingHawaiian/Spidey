@@ -63,7 +63,9 @@ class TestTfIDF:
                 #objectList = ". {} {} {} ".format(word_to_look_in1, word_to_look_in2, word_to_look_in3)
         print "Here start 1"   
         # Words we add
-        keys = keywords     
+        keys = keywords
+        print ("Keys:")
+        print (keys)
         print table.similarities (keys)
         
         
