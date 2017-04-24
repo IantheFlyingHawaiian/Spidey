@@ -77,3 +77,4 @@ class TestTfIDF:
     #calculateBestPDF()
 #tf = TestTfIDF()
 #tf.calc()
+0

@@ -1,101 +1,98 @@
-         Title Serum α-fetoprotein in a mouse strain (C3H-Avy fB) with spontaneous hepatocellular carcinomas
-           URL http://cancerres.aacrjournals.org/content/37/3/870.short
-          Year 1977
-     Citations 44
-      Versions 6
-    Cluster ID 5627008361600450869
-Citations list http://scholar.google.com/scholar?cites=5627008361600450869&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=5627008361600450869&hl=en&as_sdt=0,5
-       Excerpt ... moms,such as chromosomal composition, we cannot relate their functional capacity to that ofother systems. Further, several mouse THC from other sources have been tested and demonstratelevels of productivity as high as those of natand human tumors. REFERENCES ...
+         Title Can quantum-mechanical description of physical reality be considered complete?
+           URL http://scholar.google.com/https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
+          Year 1935
+     Citations 15450
+      Versions 118
+    Cluster ID 8174092782678430881
+Citations list http://scholar.google.com/scholar?cites=8174092782678430881&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=8174092782678430881&hl=en&as_sdt=0,5
+       Excerpt Abstract In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical 
 
-         Title A new mutation (sph) causing neonatal jaundice in the house mouse
-           URL http://www.nrcresearchpress.com/doi/pdf/10.1139/g62-026
-          Year 1962
-     Citations 27
+         Title The meaning of relativity
+          Year 1956
+     Citations 3115
+      Versions 56
+    Cluster ID 2633145968337492928
+Citations list http://scholar.google.com/scholar?cites=2633145968337492928&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2633145968337492928&hl=en&as_sdt=0,5
+
+         Title Investigations on the Theory of the Brownian Movement
+           URL http://books.google.com/books?hl=en&lr=&id=X5iRDQAAQBAJ&oi=fnd&pg=PA139&dq=%22Einstein%22&ots=-UX2gcaECf&sig=RDt0js3nUdDvLpogEMjoDQmm2Jk
+          Year 1956
+     Citations 4163
       Versions 5
-    Cluster ID 15029656537049760297
-Citations list http://scholar.google.com/scholar?cites=15029656537049760297&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=15029656537049760297&hl=en&as_sdt=0,5
-       Excerpt ... In the deer mouse thc defect is determined by an autosonlal recessive gene (as it is in thc housemouse), while in man it is usually deter- mined by an autosomal dominant, although there areindications that in certain instances rare recessive genes may produce the same ...
+    Cluster ID 13746912682491308133
+Citations list http://scholar.google.com/scholar?cites=13746912682491308133&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=13746912682491308133&hl=en&as_sdt=0,5
+       Excerpt The" Brownian movement" was first described in 1828 by the botanist Robert Brown. While investigating the pollen of several different plants, he observed that pollen dispersed in water in a great number of small particles which he perceived to be in uninterrupted and 
 
-         Title Identification of novel human genes evolutionarily conserved in Caenorhabditis elegans by comparative proteomics
-           URL http://genome.cshlp.org/content/10/5/703.short
-          Year 2000
-     Citations 264
-      Versions 9
-    Cluster ID 12313069539358793665
-Citations list http://scholar.google.com/scholar?cites=12313069539358793665&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=12313069539358793665&hl=en&as_sdt=0,5
-       Excerpt ... There were 15,558 out of 18,452 proteins found to have matched mouse THC entries. Theseresults indicate that at least 84% of C. elegans proteome potentially have mouse orthologs. Thenumbers were remarkably similar to those presented for HGI searches. ...
+         Title The bed-load function for sediment transportation in open channel flows
+           URL http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.1381&rep=rep1&type=pdf#page=40
+          Year 1950
+     Citations 2375
+      Versions 66
+    Cluster ID 11791757726509093391
+Citations list http://scholar.google.com/scholar?cites=11791757726509093391&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=11791757726509093391&hl=en&as_sdt=0,5
+       Excerpt Sedimentation is one of the critical factors in the development, use, and management of water resources. This has long been recognized in Illinois. No state agency has carried out a more constructive program of sedimentation investigations nor over a longer period of time 
 
-         Title IL-1β and TNFα modulate Δ 9-tetrahydrocannabinol-induced catalepsy in mice
-           URL http://www.sciencedirect.com/science/article/pii/009130579400270S
+         Title Relativity: The special and the general theory
+           URL http://books.google.com/books?hl=en&lr=&id=xNiqBwAAQBAJ&oi=fnd&pg=PP1&dq=%22Einstein%22&ots=yneymMieDK&sig=d2Gnh34eGru6IHAzwUVkRQpyRpo
+          Year 2015
+     Citations 2603
+      Versions 92
+    Cluster ID 8349134514512365633
+Citations list http://scholar.google.com/scholar?cites=8349134514512365633&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=8349134514512365633&hl=en&as_sdt=0,5
+       Excerpt After completing the final version of his general theory of relativity in November 1915, Albert Einstein wrote a book about relativity for a popular audience. His intention was" to give an exact insight into the theory of relativity to those readers who, from a general scientific and 
+
+         Title The collected papers of Albert Einstein
+           URL http://books.google.com/books?hl=en&lr=&id=J-zv71syXJMC&oi=fnd&pg=PR11&dq=%22Einstein%22&ots=2Di_4asOD4&sig=1jWNnV8aVtZQ7IIfwzE6DQOcsUQ
+          Year 1989
+     Citations 652
+      Versions 13
+    Cluster ID 6706908336481689418
+Citations list http://scholar.google.com/scholar?cites=6706908336481689418&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6706908336481689418&hl=en&as_sdt=0,5
+       Excerpt Every document in The Collected Papers of Albert Einstein appears in the language in which it was written, and this supplementary paperback volume presents the English translations of all non-English materials. This translation does not include notes or 
+
+         Title Autobiography
+           URL http://www.jstor.org/stable/pdf/742223.pdf
+          Year 1949
+     Citations 1642
+      Versions 0
+    Cluster ID 3539090869464550000
+      PDF link http://www.jstor.org/stable/pdf/742223.pdf
+Citations list http://scholar.google.com/scholar?cites=3539090869464550000&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt IN early 1979, Eva H. Einstein was sifting through the person pers of her late father when she made a startling discovery fred Einstein's own rough typescript of the first two chapte projected autobiography. The family had known nothing of writing while the musicologist 
+
+         Title Ideas and opinions
+           URL http://books.google.com/books?hl=en&lr=&id=9fJkBqwDD3sC&oi=fnd&pg=PA3&dq=%22Einstein%22&ots=YmGivCQI2u&sig=BL75_tSe5aL653OYfgSECpQMmTc
           Year 1995
-     Citations 6
-      Versions 7
-    Cluster ID 6913696661061704256
-Citations list http://scholar.google.com/scholar?cites=6913696661061704256&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=6913696661061704256&hl=en&as_sdt=0,5
-       Excerpt ... Recombinant IL-1α and IL-6 did not potentiate catalepsy at any dose tested. Anti-IL-1β andanti-TNFα antibodies were effective in attenuating high-dose (75 μg/ mouse) THC-inducedcatalepsy. Antibodies to IL-1α and IL-6 had no effect on catalepsy. ...
-
-         Title Blockade of cannabinoid-induced antinociception by norbinaltorphimine, but not N, N-diallyl-tyrosine-Aib-phenylalanine-leucine, ICI 174,864 or naloxone in mice.
-           URL http://jpet.aspetjournals.org/content/265/2/633.short
-          Year 1993
-     Citations 91
+     Citations 1670
       Versions 4
-    Cluster ID 1633055465403027145
-Citations list http://scholar.google.com/scholar?cites=1633055465403027145&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=1633055465403027145&hl=en&as_sdt=0,5
-       Excerpt Page 1. Vol. 265, No. 2 Printed in USA ABSTRACT ABBREVIATIONS: it., intrathecally;THC, tetrahydrocannabinol; nor-BNI, norbinaltorphine; DMSO, dimethyl sulfoxide; ICI174,864, N,N-diallyl-Tyr- Aib-Phe-Leu; %MPE, percentage ...
+    Cluster ID 7484402160867926141
+Citations list http://scholar.google.com/scholar?cites=7484402160867926141&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7484402160867926141&hl=en&as_sdt=0,5
+       Excerpt A new edition of the most definitive collection of Albert Einstein's popular writings, gathered under the supervision of Einstein himself. The selections range from his earliest days as a theoretical physicist to his death in 1955; from such subjects as relativity, nuclear war or 
 
-         Title In vitro maturation of immature thymocytes into immunocompetent T cells in the absence of direct thymic influence
-           URL http://jem.rupress.org/content/148/1/32.abstract
-          Year 1978
-     Citations 111
-      Versions 10
-    Cluster ID 786302724380312539
-Citations list http://scholar.google.com/scholar?cites=786302724380312539&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=786302724380312539&hl=en&as_sdt=0,5
-       Excerpt ... Discussion Some of the present observations confirm and extend the findings of Reisneret al. (3), showing that mouse Thc can be divided into two classes of cells, distinguishedby the presence or absence of surface membrane receptors for PNL. ...
+         Title Estimating risk of cancer associated with radiation exposure from 64-slice computed tomography coronary angiography
+           URL http://jamanetwork.com/journals/jama/fullarticle/208021
+          Year 2007
+     Citations 1370
+      Versions 19
+    Cluster ID 6829692673079820513
+Citations list http://scholar.google.com/scholar?cites=6829692673079820513&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6829692673079820513&hl=en&as_sdt=0,5
+       Excerpt Objectives To determine the LAR of cancer incidence associated with radiation exposure from a 64-slice CTCA study and to evaluate the influence of age, sex, and scan protocol on cancer risk. Design, Setting, and Patients Organ doses from 64-slice CTCA to standardized 
 
-         Title Naloxone-induced or postwithdrawal abstinence signs in Δ 9-tetrahydrocannabinol-tolerant rats
-           URL http://www.springerlink.com/index/y58703w008472536.pdf
-          Year 1977
-     Citations 96
-      Versions 5
-    Cluster ID 3717558840889779174
-      PDF link http://www.springerlink.com/index/y58703w008472536.pdf
-Citations list http://scholar.google.com/scholar?cites=3717558840889779174&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=3717558840889779174&hl=en&as_sdt=0,5
-       Excerpt ... Buxbaum et al. (1969) reported that in the mouse THC potentiated the Straub tail and the in-crease in locomotor activity produced by morphine. In both mouse and rat, a combination of lowdoses of morphine and THC produced greater than additive effects in analgesia tests. ...
-
-         Title Biologic effects of intrauterine devices
-           URL http://www.sciencedirect.com/science/article/pii/S0002937815337133
-          Year 1968
-     Citations 64
-      Versions 7
-    Cluster ID 1639896912206091613
-Citations list http://scholar.google.com/scholar?cites=1639896912206091613&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=1639896912206091613&hl=en&as_sdt=0,5
-       Excerpt Skip to content: ...
-
-         Title Kappa opioid mediation of cannabinoid effects of the potent hallucinogen, salvinorin A, in rodents
-           URL http://link.springer.com/article/10.1007/s00213-010-1827-6
-          Year 2010
-     Citations 32
-      Versions 16
-    Cluster ID 7713143324845435566
-Citations list http://scholar.google.com/scholar?cites=7713143324845435566&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=7713143324845435566&hl=en&as_sdt=0,5
-       Excerpt ... 1995; Wiley 1999). In addition, the procedure has been used as an animal modelof marijuana intoxication (Balster and Prescott 1992). In our mouse THCdiscrimination model, salvinorin A did not elicit THC-like responding. ...
-
-         Title Unraveling the complexities of cannabinoid receptor 2 (CB2) immune regulation in health and disease
-           URL http://link.springer.com/article/10.1007/s12026-011-8210-5
-          Year 2011
-     Citations 87
-      Versions 9
-    Cluster ID 3619133629634143552
-Citations list http://scholar.google.com/scholar?cites=3619133629634143552&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=3619133629634143552&hl=en&as_sdt=0,5
-       Excerpt ... SR144528 [52]. In mouse, THC addition to co-cultures of activated macrophages anda T cell hybridoma stimulated by the addition of anti-CD3 lead to a reduction in IL-2production by the T cells in a dose-dependent manner. When ...
+         Title The Universe and Dr. Einstein
+           URL http://books.google.com/books?hl=en&lr=&id=QuJQdu_fUqcC&oi=fnd&pg=PP1&dq=%22Einstein%22&ots=ZJqAV7mYWS&sig=D3tYrNzOSdr_h7Ny93B25T5NFZ8
+          Year 2005
+     Citations 442
+      Versions 6
+    Cluster ID 15317244643960906689
+Citations list http://scholar.google.com/scholar?cites=15317244643960906689&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15317244643960906689&hl=en&as_sdt=0,5
+       Excerpt In the century since the publication of the special theory of relativity, there remains a tendency to venerate Einstein's genius without actually understanding his achievement. This book offers the opportunity to truly comprehend the workings of one of humanity's greatest 
 

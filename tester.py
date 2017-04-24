@@ -35,11 +35,11 @@ def main(argv):
        
    
    searchGoogle(textSearch)
+   time.sleep(4)
    print "Enter in keywords for the tfidf"
    keywords = raw_input()
    keywords = keywords.split()
    #delay 20 seconds, wait for output.txt to be generated
-   time.sleep(2)
    print('Start tfidf')
    
    
@@ -52,6 +52,3 @@ def main(argv):
 
 if __name__ == "__main__":
    main(sys.argv[1:])
-
-
-         
