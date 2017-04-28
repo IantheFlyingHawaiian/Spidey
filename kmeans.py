@@ -43,8 +43,8 @@ X_varied, y_varied = make_blobs(n_samples=n_samples,
                                 cluster_std=[1.0, 2.5, 0.5],
                                 random_state=random_state)
 #print (X_varied)                    
-X_varied = np.array([[1, 0.0], [2, 0.0], [3, 0.0], [4, 0.40], [5, 0.46], [6, 0.00], [7, 0.0],[8, 0.08] ,[9, 0.21], [10, 0.21]])                                
-kmeans = KMeans(n_clusters=3, random_state=0).fit(X)
+X_varied = np.array([[0, 0.0], [0, 0.0], [0, 0.0], [0, 0.70], [0, 0.46], [0, 0.00], [0, 0.0],[0, 0.08] ,[0, 0.21], [0, 0.21]])                                
+kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
 print(X_varied)
 print(kmeans)
 kmeans.labels_
@@ -52,7 +52,7 @@ kmeans.predict([[0,0], [4,4]])
 kmeans.cluster_centers_
 
 
-y_pred = KMeans(n_clusters=3, random_state=random_state).fit_predict(X_varied)
+y_pred = KMeans(n_clusters=2, random_state=random_state).fit_predict(X_varied)
 print(y_pred)
 plt.plot()
 plt.scatter(X_varied[:, 0], X_varied[:, 1], c=y_pred)

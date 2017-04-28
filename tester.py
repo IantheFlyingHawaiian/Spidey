@@ -3,7 +3,7 @@ import scholar
 import sys, getopt, os
 from pdf2text import convert_pdf_to_txt
 from tfidf import tfidf
-from TestTfIDF import TestTfIDF
+from TestTfIDF import TestTable
 import time
 
 
@@ -11,7 +11,7 @@ def searchGoogle(textSearch):
     print("Starting Google Scholar Search")
     #TODO replace all spaces with % for query
     textSearch = textSearch.replace(" ", "%")
-    os.system("scholar.py -c 40 --phrase %s > output.txt" % textSearch)
+    os.system("scholar.py -c 2 --phrase %s > output.txt" % textSearch)
 
 def main(argv):
    textSearch = ''
@@ -35,7 +35,7 @@ def main(argv):
        
    
    searchGoogle(textSearch)
-   time.sleep(4)
+   time.sleep(2)
    print "Enter in keywords for the tfidf"
    keywords = raw_input()
    keywords = keywords.split()
@@ -44,10 +44,18 @@ def main(argv):
    
    
    #create tfidf tester class
-   tfidfTest2 = TestTfIDF()
+   t = TestTable()
+   t.setKeywords(keywords)
+   t.run()
+   print '----------------------FREQUENCY -------------------------------------/n'
+   print t.getFrequency()
    #f = open("output.txt", 'w')
    #keywords = ['government', 'USA','combat', 'Flying']
-   tfidfTest2.calc(keywords)
+   #tfidfTest2.calc(keywords)
+   #t.run()
+   #print t.table
+   print [method for method in dir(t) if callable(getattr(t, method))]
+   
    
 
 if __name__ == "__main__":
