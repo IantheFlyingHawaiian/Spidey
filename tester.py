@@ -5,6 +5,7 @@ from pdf2text import convert_pdf_to_txt
 from tfidf import tfidf
 from TestTfIDF import TestTable
 import time
+from kmeans import KmeansTest
 
 
 def searchGoogle(textSearch):
@@ -12,6 +13,19 @@ def searchGoogle(textSearch):
     #TODO replace all spaces with % for query
     textSearch = textSearch.replace(" ", "%")
     os.system("scholar.py -c 2 --phrase %s > output.txt" % textSearch)
+
+def simplifyArray(array):
+    l = len(array)
+    print l
+    newarray = []
+    print array
+    for i in range(0,l):
+        print '=-----------------------------------------------'
+        a = array[i]
+        a[0] = 0
+        print a
+        newarray.append(a)
+    return newarray    
 
 def main(argv):
    textSearch = ''
@@ -49,6 +63,14 @@ def main(argv):
    t.run()
    print '----------------------FREQUENCY -------------------------------------/n'
    print t.getFrequency()
+   frequencies = t.getFrequency();
+   a = simplifyArray(frequencies)
+   print frequencies
+   print a
+   
+   kmeans2 = KmeansTest()
+   kmeans2.setNpArray(a)
+   kmeans2.calc()
    #f = open("output.txt", 'w')
    #keywords = ['government', 'USA','combat', 'Flying']
    #tfidfTest2.calc(keywords)
