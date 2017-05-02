@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import scholar
 import sys, getopt, os
-from pdf2text import convert_pdf_to_txt
+#from pdf2text import convert_pdf_to_txt
 from tfidf import tfidf
 from TestTfIDF import TestTable
 import time
@@ -49,7 +49,7 @@ def main(argv):
        
    
    searchGoogle(textSearch)
-   time.sleep(2)
+   time.sleep(5)
    print "Enter in keywords for the tfidf"
    keywords = raw_input()
    keywords = keywords.split()
@@ -65,7 +65,9 @@ def main(argv):
    print t.getFrequency()
    frequencies = t.getFrequency();
    a = simplifyArray(frequencies)
+   print '----------------------FREQUENCIES -------------------------------------/n'
    print frequencies
+   print '----------------------a -------------------------------------/n'
    print a
    
    kmeans2 = KmeansTest()

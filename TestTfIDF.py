@@ -26,7 +26,7 @@ class TestTable:
         self.keywords = ''
         print ('TEST tfIDF initiated')
         f = None
-        self.f = open('test3.txt', 'r')
+        self.f = open('output.txt', 'r')
         self.line = ''
         self.linesFile = 1
 
@@ -102,7 +102,7 @@ class TestTable:
         count=0
         objectList = []
         researchDict = {}
-        linesFile = self.countFileLines("test3.txt")
+        linesFile = self.countFileLines("output.txt")
         line = self.f.read().splitlines()
         #index
         index = 0
@@ -169,6 +169,6 @@ class TestTable:
         self.updateFrequency(list)
 
 #print "========================================="
-t = TestTable()
-t.setKeywords("genome")
-t.run()
+#t = TestTable()
+#t.setKeywords("genome")
+#t.run()

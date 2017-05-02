@@ -29,15 +29,15 @@ class KmeansTest:
                         
         X_varied = np.array([[0, 0.0], [0, 0.0], [0, 0.0], [0, 0.70], [0, 0.46], [0, 0.00], [0, 0.0],[0, 0.08] ,[0, 0.21], [0, 0.21]])                                
         kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
-        print '----------------------X VARIED------------------'
-        print(X_varied)
-        print(kmeans)
+        #print '----------------------X VARIED------------------'
+        #print(X_varied)
+        #print(kmeans)
         kmeans.labels_
         kmeans.predict([[0,0], [4,4]])
         kmeans.cluster_centers_
         
         y_pred = KMeans(n_clusters=2, random_state=random_state).fit_predict(X_varied)
-        print(y_pred)
+        #print(y_pred)
         plt.plot()
         plt.scatter(X_varied[:, 0], X_varied[:, 1], c=y_pred)
         #plt.title("Unequal Variance")
@@ -48,13 +48,15 @@ class KmeansTest:
         
         
     def setNpArray(self, frequencies):
-        self.X_varied = np.array(frequencies)
+        self.X_Varied = np.array(frequencies)
+        print '----------------------set NP Array frequencies------------------'
         print np.array(frequencies)
+        print '----------------------set NP Array X_Varied------------------'
         print self.X_Varied
         return self.X_Varied
         
     def calc(self):
-        print '----------------------X VARIED------------------'
+        #print '----------------------X VARIED------------------'
         '''print self.X_Varied
         plt.figure(figsize=(12, 12))
         n_samples = 1500
@@ -105,13 +107,13 @@ class KmeansTest:
         
         plt.show()
         
-k = KmeansTest()
-a = [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0 , 0.90], [0.0, 0.46], [0.0, 0.00], [0.0, 0.0],[0.0, 0.08] ,[0.0, 0.21], [0.0, 0.21]
-print '------------------------- a -------------------------------'
-print a
-X_varied = np.array(a)
-print '------------------------- x after setNpArray -------------------------------'
-print X_varied
-k.X_Varied = X_varied
-print '-------------------------- k CALC -------------------------'
-k.calc()
+#k = KmeansTest()
+#a = [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0 , 0.90], [0.0, 0.46], [0.0, 0.00], [0.0, 0.0],[0.0, 0.08] ,[0.0, 0.21], [0.0, 0.21]
+#print '------------------------- a -------------------------------'
+#print a
+#X_varied = np.array(a)
+#print '------------------------- x after setNpArray -------------------------------'
+#print X_varied
+#k.X_Varied = X_varied
+#print '-------------------------- k CALC -------------------------'
+#k.calc() '''

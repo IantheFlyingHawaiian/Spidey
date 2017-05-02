@@ -1,0 +1,18 @@
+         Title Can quantum-mechanical description of physical reality be considered complete?
+           URL http://scholar.google.com/https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
+          Year 1935
+     Citations 15466
+      Versions 118
+    Cluster ID 8174092782678430881
+Citations list http://scholar.google.com/scholar?cites=8174092782678430881&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=8174092782678430881&hl=en&as_sdt=0,5
+       Excerpt Abstract In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical 
+
+         Title The meaning of relativity
+          Year 1956
+     Citations 3116
+      Versions 56
+    Cluster ID 2633145968337492928
+Citations list http://scholar.google.com/scholar?cites=2633145968337492928&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2633145968337492928&hl=en&as_sdt=0,5
+
