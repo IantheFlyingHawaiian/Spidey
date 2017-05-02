@@ -19,7 +19,7 @@ from sklearn.datasets import make_blobs
 class KmeansTest:
     
     def __init__(self):
-        self.X_Varied = None
+        self.X_Varied = []
         
         plt.figure(figsize=(12, 12))
         n_samples = 1500
@@ -43,7 +43,7 @@ class KmeansTest:
         #plt.title("Unequal Variance")
         plt.title("Kmeans Clustering")
         
-        plt.show()
+        #plt.show()
         
         
         
@@ -86,7 +86,8 @@ class KmeansTest:
         
         X, y = make_blobs(n_samples=n_samples, random_state=random_state)
                         
-        X_varied = np.array([[0, 0.0], [0, 0.0], [0, 0.0], [0, 0.70], [0, 0.46], [0, 0.00], [0, 0.0],[0, 0.08] ,[0, 0.21], [0, 0.21]])                                
+        #X_varied = np.array([[0, 0.0], [0, 0.0], [0, 0.0], [0, 0.70], [0, 0.46], [0, 0.00], [0, 0.0],[0, 0.08] ,[0, 0.21], [0, 0.21]]) 
+        X_varied  = self.X_Varied
         kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
         print '----------------------X VARIED------------------'
         print(X_varied)
@@ -105,12 +106,12 @@ class KmeansTest:
         plt.show()
         
 k = KmeansTest()
-a = [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0 , 0.70], [0.0, 0.46], [0.0, 0.00], [0.0, 0.0],[0.0, 0.08] ,[0.0, 0.21], [0.0, 0.21]
+a = [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0 , 0.90], [0.0, 0.46], [0.0, 0.00], [0.0, 0.0],[0.0, 0.08] ,[0.0, 0.21], [0.0, 0.21]
 print '------------------------- a -------------------------------'
 print a
-X_varied = a
+X_varied = np.array(a)
 print '------------------------- x after setNpArray -------------------------------'
-
 print X_varied
+k.X_Varied = X_varied
 print '-------------------------- k CALC -------------------------'
 k.calc()
