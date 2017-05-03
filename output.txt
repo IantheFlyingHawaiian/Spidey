@@ -9,7 +9,7 @@ Citations list http://scholar.google.com/scholar?cites=5940387996704783313&as_sd
        Excerpt ... problem. Subject classifications: analysis of algorithms: metaheuristics; health care:bioinformatics, DNA sequencing; programming: integer; algorithms: heuristic. Areaof review: Computing and Information Technologies. History ...
 
          Title Metaheuristics in bioinformatics: Dna sequencing and reconstruction
-           URL http://books.google.com/books?hl=en&lr=&id=-957UfIDFTQC&oi=fnd&pg=PA265&dq=%22Bioinformatics%25DNA%25Sequencing%22&ots=OzZK-w6fdF&sig=uLUkif9XIxBmQn_vG6_1CgBl2u8
+           URL http://books.google.com/books?hl=en&lr=&id=-957UfIDFTQC&oi=fnd&pg=PA265&dq=%22Bioinformatics%25DNA%25Sequencing%22&ots=OzZK-w76iH&sig=pMKpKK54pK45cZ9oVG7O2D9u_0o
           Year 2009
      Citations 5
       Versions 7
@@ -58,7 +58,7 @@ Citations list http://scholar.google.com/scholar?cites=16783978040978269325&as_s
        Excerpt The DNA sequencing problem is aimed at reconstructing an unknown fragment of DNA(deoxyribonucleic acid) based upon a set of oligonucleotides that makes up the.
 
          Title Optimization techniques for solving complex problems
-           URL http://books.google.com/books?hl=en&lr=&id=-957UfIDFTQC&oi=fnd&pg=PR7&dq=%22Bioinformatics%25DNA%25Sequencing%22&ots=OzZK-w6fdF&sig=y1PwaFy8SbtJCt6alPnatpq0xGI
+           URL http://books.google.com/books?hl=en&lr=&id=-957UfIDFTQC&oi=fnd&pg=PR7&dq=%22Bioinformatics%25DNA%25Sequencing%22&ots=OzZK-w76iH&sig=t8tz6tH5kfJPaUoa0X8lgXPTGaI
           Year 2009
      Citations 36
       Versions 3
