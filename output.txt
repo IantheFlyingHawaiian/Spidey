@@ -1,98 +1,98 @@
-         Title Mechanics from Aristotle to Einstein
-           URL http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
-          Year 2007
-     Citations 15
-      Versions 0
-    Cluster ID 8687171702194005139
-      PDF link http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
-Citations list http://scholar.google.com/scholar?cites=8687171702194005139&as_sdt=2005&sciodt=0,5&hl=en
-       Excerpt Page 1. Mechanics from Aristotle to Einstein BOOK DETAILS • Author : Michael ...1888009322 BOOK SYNOPSIS MECHANICS FROM ARISTOTLE TO EINSTEIN - Areyou looking for Ebook Mechanics From Aristotle To Einstein? You ...
+         Title Slim-trees: High performance metric trees minimizing overlap between nodes
+           URL http://link.springer.com/chapter/10.1007/3-540-46439-5_4
+          Year 2000
+     Citations 326
+      Versions 38
+    Cluster ID 13548447215662896331
+Citations list http://scholar.google.com/scholar?cites=13548447215662896331&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=13548447215662896331&hl=en&as_sdt=0,5
+       Excerpt Abstract In this paper we present the Slim-tree, a dynamic tree for organizing metric datasets in pages of fixed size. The Slim-tree uses the “fat-factor” which provides a simple way to quantify the degree of overlap between the nodes in a metric tree. It is well-known that the 
 
-         Title Foundations of the new field theory
-           URL http://www.jstor.org/stable/2935568
-          Year 1934
-     Citations 1779
+         Title A fading-insensitive performance metric for a unified link quality model
+           URL http://ieeexplore.ieee.org/abstract/document/1696622/
+          Year 2006
+     Citations 200
+      Versions 2
+    Cluster ID 977372287945506724
+Citations list http://scholar.google.com/scholar?cites=977372287945506724&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=977372287945506724&hl=en&as_sdt=0,5
+       Excerpt Abstract: Link quality model is widely used in system evaluations to simplify the simulation complexity. It is also important in practical systems for improving the accuracy of the link adaptation and the efficiency of radio-resource-management. Conventional linear average 
+
+         Title Toward a better parallel performance metric
+           URL http://www.sciencedirect.com/science/article/pii/S0167819105800286
+          Year 1991
+     Citations 165
       Versions 8
-    Cluster ID 779461755573160491
-Citations list http://scholar.google.com/scholar?cites=779461755573160491&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=779461755573160491&hl=en&as_sdt=0,5
-       Excerpt ... This argument seems to be quite convincing. But we believe that a deeper foundationof such an important law is necessary, just as in Einstein's mechanics the deeperfoundation is provided by the postulate of relativity. Assuming ...
+    Cluster ID 3533704588878401717
+Citations list http://scholar.google.com/scholar?cites=3533704588878401717&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=3533704588878401717&hl=en&as_sdt=0,5
+       Excerpt Abstract The traditional definition of 'speedup'as the ratio of sequential execution time to parallel execution time has been widely accepted. One drawback to this metric is that it tends to reward slower processors and inefficient compilation with higher speedup. It seems 
 
-         Title Relativistic geometromechanics
-           URL http://www.springerlink.com/index/R20531268T806P48.pdf
-          Year 2009
-     Citations 17
-      Versions 10
-    Cluster ID 9515067643607525355
-      PDF link http://www.springerlink.com/index/R20531268T806P48.pdf
-Citations list http://scholar.google.com/scholar?cites=9515067643607525355&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=9515067643607525355&hl=en&as_sdt=0,5
-       Excerpt ... Relativistic geometromechanics is developed whose kinematics in the quantum period of theUniverse is significantly modified as compared with that of canonical mechanics and is coincidentwith that of relativistic Poincaré – Einstein mechanics in the absence of vacuum-like ...
-
-         Title Proper particle mechanics
-           URL http://aip.scitation.org/doi/abs/10.1063/1.1666540
-          Year 1974
-     Citations 85
-      Versions 8
-    Cluster ID 17459274706752033377
-Citations list http://scholar.google.com/scholar?cites=17459274706752033377&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=17459274706752033377&hl=en&as_sdt=0,5
-       Excerpt ... " The common expression "relativistic mechanics" will be avoided here because, by the moststraightforward interpretation of the adjective "relativistic, " Einstein's mechanics is less ratherthan more relativistic than the socalled "nonrelativistic" mechanics of Newton. ...
-
-         Title Energy and mass in relativity theory
-           URL http://books.google.com/books?hl=en&lr=&id=vX1pDQAAQBAJ&oi=fnd&pg=PR7&dq=%22Einstein%25Mechanics%22&ots=17W4OrhygQ&sig=oblPIozedHZcM14u9ODsQf9yvm0
-          Year 2009
-     Citations 39
-      Versions 4
-    Cluster ID 4341665301811803846
-Citations list http://scholar.google.com/scholar?cites=4341665301811803846&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=4341665301811803846&hl=en&as_sdt=0,5
-       Excerpt ... Kobzarev, Soviet Physics Uspekhi 11 (1968) 338–341. 2. Mass, Energy, and Momentum inEinstein's Mechanics 5 cy, 6, Y... Z. A Primer in Particle Physics (Harwood Academic Publishers,1987), pp. 9–13. 3. The Concept of Mass 11 Physics Today, June 1989, pp. 31–36. ...
-
-         Title Physics before and after Einstein
-           URL http://books.google.com/books?hl=en&lr=&id=SdLLsj-0rqIC&oi=fnd&pg=PR1&dq=%22Einstein%25Mechanics%22&ots=D52LgmpOlt&sig=0sQdAMf6HvNBWSMXkJ6GaMCI8ks
-          Year 2005
-     Citations 15
-      Versions 6
-    Cluster ID 10350711830023315808
-Citations list http://scholar.google.com/scholar?cites=10350711830023315808&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=10350711830023315808&hl=en&as_sdt=0,5
-       Excerpt Page 1. lﬂi Physics before and after Eistein Page 2. PHYSICS BEFORE AND AFTEREINSTEIN Page 3. This page intentionally left blank Page 4. Physics Before and AfterEinstein Edited by Marco Mamone Capria University ofPerugia ...
-
-         Title Probability and scientific inference
-          Year 1957
-     Citations 79
-      Versions 0
-    Cluster ID 15632231367973176742
-Citations list http://scholar.google.com/scholar?cites=15632231367973176742&as_sdt=2005&sciodt=0,5&hl=en
-
-         Title Relativistic celestial mechanics of the solar system
-           URL http://books.google.com/books?hl=en&lr=&id=uN5_DQWSR14C&oi=fnd&pg=PR17&dq=%22Einstein%25Mechanics%22&ots=bWY3sn-GxF&sig=AE-4siVpKxOizBhhBAiR_EpgKc4
-          Year 2011
-     Citations 97
-      Versions 6
-    Cluster ID 17699593976475592523
-Citations list http://scholar.google.com/scholar?cites=17699593976475592523&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=17699593976475592523&hl=en&as_sdt=0,5
-       Excerpt Page 1. Sergei Kopeikin, WWILEY-VCH Michael Efroimsky, George Kaplan D- © 0 = 0 RelativisticCelestial Mechanics of the Solar System Page 2. Kopeikin. Efroimsky. Kaplan Relativistic CelestialMechanics --~~ © of the Solar system - Page 3. Kopeikin · Efroimsky · Kaplan T ...
-
-         Title Einstein: His life and times
-           URL http://books.google.com/books?hl=en&lr=&id=Qs724uDW-rIC&oi=fnd&pg=PA3&dq=%22Einstein%25Mechanics%22&ots=EzLm8O6hSu&sig=g7kVbbQFTtaSSWLaM1UYkp22U_0
+         Title Benchmarking optimization software with performance profiles
+           URL http://www.springerlink.com/index/T2EJ6W4975M83EPX.pdf
           Year 2002
-     Citations 374
-      Versions 3
-    Cluster ID 15752609985161891417
-Citations list http://scholar.google.com/scholar?cites=15752609985161891417&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=15752609985161891417&hl=en&as_sdt=0,5
-       Excerpt Page 1. fill fO »x r e e PHILIPP FRANK El NSTEIN HIS LIFE AND TIMES THE ONLY BIOGRRPHYFROM INSIDE EINSTEIN'S WORLD, BY HIS FRIEND, COLLEflGUE, flND CONTEMPORRRYPage 2. Page 3. EINSTEIN HIS LIFE AND TIMES Page 4. Page 5. ...
+     Citations 2111
+      Versions 28
+    Cluster ID 10817765451008685720
+      PDF link http://www.springerlink.com/index/T2EJ6W4975M83EPX.pdf
+Citations list http://scholar.google.com/scholar?cites=10817765451008685720&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=10817765451008685720&hl=en&as_sdt=0,5
+       Excerpt ... Abstract. We propose performance profiles — distribution functions for a performance metric —as a tool for benchmarking and comparing optimization software. We show that performanceprofiles combine the best features of other tools for performance evaluation. Key words. ...
 
-         Title Deriving relativistic momentum and energy
-           URL http://iopscience.iop.org/article/10.1088/0143-0807/26/1/005/meta
-          Year 2004
-     Citations 39
-      Versions 14
-    Cluster ID 14448399556989445475
-Citations list http://scholar.google.com/scholar?cites=14448399556989445475&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=14448399556989445475&hl=en&as_sdt=0,5
-       Excerpt ... We stress again that this procedure works for Newtonian and Einstein mechanics aswell, so a student who is already familiar with Newtonian concepts will have no difficultyin following the argument, since no new notion is required. ...
+         Title Rate-hardness: A new performance metric for haptic interfaces
+           URL http://ieeexplore.ieee.org/abstract/document/864228/
+          Year 2000
+     Citations 140
+      Versions 5
+    Cluster ID 15179680911997198508
+Citations list http://scholar.google.com/scholar?cites=15179680911997198508&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15179680911997198508&hl=en&as_sdt=0,5
+       Excerpt Abstract: Rate-hardness is introduced as a quality metric for hard virtual surfaces, and linked to human perception of hardness via a psychophysical study. A 3 degree-of-freedom haptic interface is used to present pairs of virtual walls to users for side-by-side comparison, 19 
+
+         Title Multi-hop relay system evaluation methodology (channel model and performance metric)
+          Year 2007
+     Citations 136
+      Versions 0
+    Cluster ID 13543023117441686506
+Citations list http://scholar.google.com/scholar?cites=13543023117441686506&as_sdt=2005&sciodt=0,5&hl=en
+
+         Title On the error vector magnitude as a performance metric and comparative analysis
+           URL http://ieeexplore.ieee.org/abstract/document/4136960/
+          Year 2006
+     Citations 81
+      Versions 13
+    Cluster ID 6404226595491624843
+Citations list http://scholar.google.com/scholar?cites=6404226595491624843&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6404226595491624843&hl=en&as_sdt=0,5
+       Excerpt Abstract: In this paper, we present the error vector magnitude (EVM) as a figure of merit for assessing the quality of digitally modulated telecommunication signals. We define EVM for a common industry standard and derive the relationships among EVM, signal to noise ratio 
+
+         Title EVA and value-based management
+           URL http://valueadvisors.com/Attachments/Book%20Review%20-%20pdf.pdf
+          Year 2001
+     Citations 828
+      Versions 4
+    Cluster ID 12374103948505622193
+      PDF link http://valueadvisors.com/Attachments/Book%20Review%20-%20pdf.pdf
+Citations list http://scholar.google.com/scholar?cites=12374103948505622193&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12374103948505622193&hl=en&as_sdt=0,5
+       Excerpt ... To reap EVA's benefits, you must adopt it as a performance metric from the top down. ...The book honestly assesses EVA's power to motivate managers, noting that somecompanies just are not well-suited for this performance metric. ...
+
+         Title Capture Index: An Airflow-Based Rack Cooling Performance Metric.
+           URL http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00012505&AN=25258530&h=%2BlpeOEDLZCk%2FHzq7%2BilQFqzqjZFk5vbNUqQT9pyfWB5bZ8JSSyyIPbRx3gzla4cAL7m6a6KNpFXqA9gi%2F%2BLDYA%3D%3D&crl=c
+          Year 2007
+     Citations 73
+      Versions 0
+    Cluster ID 8815486944460033398
+Citations list http://scholar.google.com/scholar?cites=8815486944460033398&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt Abstract The dimensionless capture index (CI) is proposed as a cooling performance metric based solely on the airflow patterns associated with the supply of cool air to, or the removal of hot air from, a rack. The capture index is typically a rack-by-rack metric and has values 
+
+         Title Guidelines for Considering New Performance Metric Development
+           URL http://scholar.google.com/https://tools.ietf.org/html/rfc6390.html
+          Year 2011
+     Citations 67
+      Versions 5
+    Cluster ID 16992118864273095395
+Citations list http://scholar.google.com/scholar?cites=16992118864273095395&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16992118864273095395&hl=en&as_sdt=0,5
+       Excerpt ... ISSN: 2070-1721 October 2011 Guidelines for Considering New Performance MetricDevelopment Abstract This document describes a framework and a process for developingPerformance Metrics of protocols and applications transported over IETF-specified protocols.
 

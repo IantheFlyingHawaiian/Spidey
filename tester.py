@@ -106,6 +106,8 @@ def main(argv):
    documentDispIDs = displayUrl(checkDocs, t.list)
    
    #Query the user to see if they like the documents
+   count = 0
+   total = len(documentDispIDs)
    for i in documentDispIDs:
        print 'Document ID for yes or no'
        print i
@@ -119,8 +121,14 @@ def main(argv):
        var = var.lower()
        if var == 'yes':
            print 'User liked this Document'
+           count = count + 1
        else:
            print 'User did not like this Document'
+   print '----------------Performance -------------------'
+   print 'Recommended Document Count: %d' % total
+   print 'Total documents: %d' % total
+   t.performance = (float(count) / float(total)) * 100
+   print 'Average Documents Liked: %f' % t.performance
    print t.performance
 
 
