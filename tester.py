@@ -6,13 +6,17 @@ from tfidf import tfidf
 from TestTfIDF import TestTable
 import time
 from kmeans import KmeansTest
+import subprocess
 
 
 def searchGoogle(textSearch):
     print("Starting Google Scholar Search")
     #TODO replace all spaces with % for query
     textSearch = textSearch.replace(" ", "%")
-    os.system("scholar.py -c 2 --phrase %s > output.txt" % textSearch)
+    os.system("python scholar.py -c 10 --phrase %s > output.txt" % textSearch)
+    #cmd = "scholar.py -c 10 --phrase %s > output.txt" % textSearch
+    #cmd = cmd.split()
+    #subprocess.call(cmd, shell=False)
 
 def simplifyArray(array):
     l = len(array)

@@ -88,6 +88,8 @@ Let's retrieve a BibTeX entry for that quantum theory paper. The best BibTeX oft
 
 Report the total number of articles Google Scholar has for Einstein:
 
+
+Spidey - the Researcher Web Crawler 
     $ scholar.py --txt-globals --author "albert einstein" | grep '\[G\]' | grep Results
     [G]    Results 4190
 
