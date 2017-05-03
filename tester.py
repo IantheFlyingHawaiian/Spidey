@@ -34,6 +34,7 @@ def simplifyArray(array):
     
 def displayUrl(array, researchObjects):
     count = 0
+    documentsDisplayID = []
     
     for i in array:
         print i
@@ -46,12 +47,13 @@ def displayUrl(array, researchObjects):
                 url = researchObjects[count][0]['URL']
                 webpage = url.split()[1]
                 webbrowser.open(webpage)
+                documentsDisplayID.append(count)
         else:
             #Do nothing
             print "don't open Document %d" % count
         count = count + 1
-    return None
-        
+    return documentsDisplayID
+
 
 def main(argv):
    textSearch = ''
@@ -101,14 +103,28 @@ def main(argv):
    checkDocs = kmeans2.calc()
    #print t.list
    
-   displayUrl(checkDocs, t.list)
+   documentDispIDs = displayUrl(checkDocs, t.list)
    
-   #f = open("output.txt", 'w')
-   #keywords = ['government', 'USA','combat', 'Flying']
-   #tfidfTest2.calc(keywords)
-   #t.run()
-   #print t.table
-   print [method for method in dir(t) if callable(getattr(t, method))]
+   #Query the user to see if they like the documents
+   for i in documentDispIDs:
+       print 'Document ID for yes or no'
+       print i
+       print t.list[i]
+       print t.list[i][0]['Title']
+       title = t.list[i][0]['Title']
+       title = title.strip()
+       title = title.split()[1:]
+       title = ' '.join(title)
+       var = raw_input("Did you like Document %d: %s? (yes or no) " %  (i, title))
+       var = var.lower()
+       if var == 'yes':
+           print 'User liked this Document'
+       else:
+           print 'User did not like this Document'
+   print t.performance
+
+
+   #print [method for method in dir(t) if callable(getattr(t, method))]
    
    
 

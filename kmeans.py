@@ -21,27 +21,27 @@ class KmeansTest:
     def __init__(self):
         self.X_Varied = []
         
-        plt.figure(figsize=(12, 12))
-        n_samples = 1500
-        random_state = 170
+        #plt.figure(figsize=(12, 12))
+        #n_samples = 1500
+        #random_state = 170
         
-        X, y = make_blobs(n_samples=n_samples, random_state=random_state)
+        #X, y = make_blobs(n_samples=n_samples, random_state=random_state)
                         
-        X_varied = np.array([[0, 0.0], [0, 0.0], [0, 0.0], [0, 0.70], [0, 0.46], [0, 0.00], [0, 0.0],[0, 0.08] ,[0, 0.21], [0, 0.21]])                                
-        kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
+        #X_varied = np.array([[0, 0.0], [0, 0.0], [0, 0.0], [0, 0.70], [0, 0.46], [0, 0.00], [0, 0.0],[0, 0.08] ,[0, 0.21], [0, 0.21]])                                
+        #kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
         #print '----------------------X VARIED------------------'
         #print(X_varied)
         #print(kmeans)
-        kmeans.labels_
-        kmeans.predict([[0,0], [4,4]])
-        kmeans.cluster_centers_
+        #kmeans.labels_
+        #kmeans.predict([[0,0], [4,4]])
+        #kmeans.cluster_centers_
         
-        y_pred = KMeans(n_clusters=2, random_state=random_state).fit_predict(X_varied)
+        #y_pred = KMeans(n_clusters=2, random_state=random_state).fit_predict(X_varied)
         #print(y_pred)
-        plt.plot()
-        plt.scatter(X_varied[:, 0], X_varied[:, 1], c=y_pred)
+        #plt.plot()
+        #plt.scatter(X_varied[:, 0], X_varied[:, 1], c=y_pred)
         #plt.title("Unequal Variance")
-        plt.title("Kmeans Clustering")
+        #plt.title("Kmeans Clustering")
         
         #plt.show()
         

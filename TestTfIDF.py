@@ -15,6 +15,7 @@ from tfidf import tfidf
 class TestTable:
 
     def __init__(self):
+        self.performance = 0
         self.f = None
         self.wordfreq = []
         self.table = tfidf()
