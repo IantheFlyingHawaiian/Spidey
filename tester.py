@@ -8,6 +8,9 @@ import time
 from kmeans import KmeansTest
 import subprocess
 import webbrowser
+import nltk
+from nltk.corpus import stopwords
+
 
 
 def searchGoogle(textSearch):
@@ -32,6 +35,12 @@ def simplifyArray(array):
         newarray.append(a)
     return newarray    
     
+#def setupNltk():
+    #dler = nltk.downloader.Downloader()
+    #dler._update_index()
+    #dler._status_cache['panlex_lite'] = 'installed'
+    #dler.download('corpus')
+        
 def displayUrl(array, researchObjects):
     count = 0
     documentsDisplayID = []
@@ -56,6 +65,9 @@ def displayUrl(array, researchObjects):
 
 
 def main(argv):
+   #initialize Nltk
+   #setupNltk()
+    
    textSearch = ''
    outputfile = ''
    try:
@@ -130,6 +142,18 @@ def main(argv):
    t.performance = (float(count) / float(total)) * 100
    print 'Average Documents Liked: %f' % t.performance
    print t.performance
+   
+   #remove the common words using the Natural Language ToolKit
+   s = set(stopwords.words('english'))
+   for i in range(0,total):
+       print i
+       print t.list[i][0]['Title']
+       str1 = t.list[i][0]['Excerpt']
+       str1Stopped = filter(lambda w: not w in s, str1.split())
+       print str1Stopped
+       print t.wordListToFreqDict(str1Stopped)
+
+   #print t.wordListToFreqDict(t.list[0][0]['Excerpt'].split())
 
 
    #print [method for method in dir(t) if callable(getattr(t, method))]

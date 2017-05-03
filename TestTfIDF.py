@@ -38,6 +38,8 @@ class TestTable:
         wordfreq = [wordlist.count(p) for p in wordlist]
         return dict(zip(wordlist,wordfreq))
         
+
+        
         
     # Sort a dictionary of word-frequency pairs in
     # order of descending frequency.

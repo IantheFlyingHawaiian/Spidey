@@ -1,98 +1,100 @@
-         Title Slim-trees: High performance metric trees minimizing overlap between nodes
-           URL http://link.springer.com/chapter/10.1007/3-540-46439-5_4
-          Year 2000
-     Citations 326
-      Versions 38
-    Cluster ID 13548447215662896331
-Citations list http://scholar.google.com/scholar?cites=13548447215662896331&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=13548447215662896331&hl=en&as_sdt=0,5
-       Excerpt Abstract In this paper we present the Slim-tree, a dynamic tree for organizing metric datasets in pages of fixed size. The Slim-tree uses the “fat-factor” which provides a simple way to quantify the degree of overlap between the nodes in a metric tree. It is well-known that the 
+         Title A review of feature selection techniques in bioinformatics
+           URL http://bioinformatics.oxfordjournals.org/content/23/19/2507.short
+          Year 2007
+     Citations 2674
+      Versions 19
+    Cluster ID 11372466769267737708
+Citations list http://scholar.google.com/scholar?cites=11372466769267737708&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=11372466769267737708&hl=en&as_sdt=0,5
+       Excerpt Abstract Feature selection techniques have become an apparent need in many bioinformatics applications. In addition to the large pool of techniques that have already been developed in the machine learning and data mining fields, specific applications in 
 
-         Title A fading-insensitive performance metric for a unified link quality model
-           URL http://ieeexplore.ieee.org/abstract/document/1696622/
-          Year 2006
-     Citations 200
-      Versions 2
-    Cluster ID 977372287945506724
-Citations list http://scholar.google.com/scholar?cites=977372287945506724&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=977372287945506724&hl=en&as_sdt=0,5
-       Excerpt Abstract: Link quality model is widely used in system evaluations to simplify the simulation complexity. It is also important in practical systems for improving the accuracy of the link adaptation and the efficiency of radio-resource-management. Conventional linear average 
+         Title Taverna: a tool for the composition and enactment of bioinformatics workflows
+           URL http://bioinformatics.oxfordjournals.org/content/20/17/3045.short
+          Year 2004
+     Citations 1576
+      Versions 23
+    Cluster ID 16891855498158235101
+Citations list http://scholar.google.com/scholar?cites=16891855498158235101&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16891855498158235101&hl=en&as_sdt=0,5
+       Excerpt Abstract Motivation: In silico experiments in bioinformatics involve the co-ordinated use of computational tools and information repositories. A growing number of these resources are being made available with programmatic access in the form of Web services. Bioinformatics 
 
-         Title Toward a better parallel performance metric
-           URL http://www.sciencedirect.com/science/article/pii/S0167819105800286
-          Year 1991
-     Citations 165
-      Versions 8
-    Cluster ID 3533704588878401717
-Citations list http://scholar.google.com/scholar?cites=3533704588878401717&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=3533704588878401717&hl=en&as_sdt=0,5
-       Excerpt Abstract The traditional definition of 'speedup'as the ratio of sequential execution time to parallel execution time has been widely accepted. One drawback to this metric is that it tends to reward slower processors and inefficient compilation with higher speedup. It seems 
+         Title Biopython: freely available Python tools for computational molecular biology and bioinformatics
+           URL http://bioinformatics.oxfordjournals.org/content/25/11/1422.short
+          Year 2009
+     Citations 923
+      Versions 30
+    Cluster ID 6316066505201525806
+Citations list http://scholar.google.com/scholar?cites=6316066505201525806&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6316066505201525806&hl=en&as_sdt=0,5
+       Excerpt Summary: The Biopython project is a mature open source international collaboration of volunteer developers, providing Python libraries for a wide range of bioinformatics problems. Biopython includes modules for reading and writing different sequence file formats and 
 
-         Title Benchmarking optimization software with performance profiles
-           URL http://www.springerlink.com/index/T2EJ6W4975M83EPX.pdf
-          Year 2002
-     Citations 2111
+         Title Data mining in bioinformatics using Weka
+           URL http://bioinformatics.oxfordjournals.org/content/20/15/2479.short
+          Year 2004
+     Citations 660
       Versions 28
-    Cluster ID 10817765451008685720
-      PDF link http://www.springerlink.com/index/T2EJ6W4975M83EPX.pdf
-Citations list http://scholar.google.com/scholar?cites=10817765451008685720&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=10817765451008685720&hl=en&as_sdt=0,5
-       Excerpt ... Abstract. We propose performance profiles — distribution functions for a performance metric —as a tool for benchmarking and comparing optimization software. We show that performanceprofiles combine the best features of other tools for performance evaluation. Key words. ...
+    Cluster ID 7701556340915497186
+Citations list http://scholar.google.com/scholar?cites=7701556340915497186&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7701556340915497186&hl=en&as_sdt=0,5
+       Excerpt Summary: The Weka machine learning workbench provides a general-purpose environment for automatic classification, regression, clustering and feature selection—common data mining problems in bioinformatics research. It contains an extensive collection of machine 
 
-         Title Rate-hardness: A new performance metric for haptic interfaces
-           URL http://ieeexplore.ieee.org/abstract/document/864228/
+         Title myGrid: personalised bioinformatics on the information grid
+           URL http://bioinformatics.oxfordjournals.org/content/19/suppl_1/i302.short
+          Year 2003
+     Citations 488
+      Versions 14
+    Cluster ID 6735941768307590521
+Citations list http://scholar.google.com/scholar?cites=6735941768307590521&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6735941768307590521&hl=en&as_sdt=0,5
+       Excerpt Abstract Motivation: The my Grid project aims to exploit Grid technology, with an emphasis on the Information Grid, and provide middleware layers that make it appropriate for the needs of bioinformatics. my Grid is building high level services for data and application 
+
+         Title TAMBIS: transparent access to multiple bioinformatics information sources
+           URL http://bioinformatics.oxfordjournals.org/content/16/2/184.short
           Year 2000
-     Citations 140
-      Versions 5
-    Cluster ID 15179680911997198508
-Citations list http://scholar.google.com/scholar?cites=15179680911997198508&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=15179680911997198508&hl=en&as_sdt=0,5
-       Excerpt Abstract: Rate-hardness is introduced as a quality metric for hard virtual surfaces, and linked to human perception of hardness via a psychophysical study. A 3 degree-of-freedom haptic interface is used to present pairs of virtual walls to users for side-by-side comparison, 19 
+     Citations 339
+      Versions 14
+    Cluster ID 2600286865416645873
+Citations list http://scholar.google.com/scholar?cites=2600286865416645873&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2600286865416645873&hl=en&as_sdt=0,5
+       Excerpt Summary: TAMBIS (Transparent Access to Multiple Bioinformatics Information Sources) is an application that allows biologists to ask rich and complex questions over a range of bioinformatics resources. It is based on a model of the knowledge of the concepts and their 
 
-         Title Multi-hop relay system evaluation methodology (channel model and performance metric)
-          Year 2007
-     Citations 136
-      Versions 0
-    Cluster ID 13543023117441686506
-Citations list http://scholar.google.com/scholar?cites=13543023117441686506&as_sdt=2005&sciodt=0,5&hl=en
+         Title APE: analyses of phylogenetics and evolution in R language
+           URL http://bioinformatics.oxfordjournals.org/content/20/2/289.short
+          Year 2004
+     Citations 4524
+      Versions 18
+    Cluster ID 16558917089922882878
+Citations list http://scholar.google.com/scholar?cites=16558917089922882878&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16558917089922882878&hl=en&as_sdt=0,5
+       Excerpt Summary: Analysis of Phylogenetics and Evolution (APE) is a package written in the R language for use in molecular evolution and phylogenetics. APE provides both utility functions for reading and writing data and manipulating phylogenetic trees, as well as 
 
-         Title On the error vector magnitude as a performance metric and comparative analysis
-           URL http://ieeexplore.ieee.org/abstract/document/4136960/
-          Year 2006
-     Citations 81
-      Versions 13
-    Cluster ID 6404226595491624843
-Citations list http://scholar.google.com/scholar?cites=6404226595491624843&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=6404226595491624843&hl=en&as_sdt=0,5
-       Excerpt Abstract: In this paper, we present the error vector magnitude (EVM) as a figure of merit for assessing the quality of digitally modulated telecommunication signals. We define EVM for a common industry standard and derive the relationships among EVM, signal to noise ratio 
+         Title Mega
+           URL http://scholar.google.com/https://asu.pure.elsevier.com/en/publications/mega-molecular-evolutionary-genetics-analysis-software-for-microc
+          Year 1994
+     Citations 835
+      Versions 2
+    Cluster ID 9222305984983609561
+Citations list http://scholar.google.com/scholar?cites=9222305984983609561&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=9222305984983609561&hl=en&as_sdt=0,5
+       Excerpt Abstract A computer program package called MEGA has been developed for estimating evolutionary distances, reconstructing phylogenetic trees and computing basic statistical quantities from molecular data. It is written in C++ and is intended to be used on IBM and 
 
-         Title EVA and value-based management
-           URL http://valueadvisors.com/Attachments/Book%20Review%20-%20pdf.pdf
+         Title A comparison of normalization methods for high density oligonucleotide array data based on variance and bias
+           URL http://bioinformatics.oxfordjournals.org/content/19/2/185.short
+          Year 2003
+     Citations 6714
+      Versions 26
+    Cluster ID 574339648835136746
+Citations list http://scholar.google.com/scholar?cites=574339648835136746&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=574339648835136746&hl=en&as_sdt=0,5
+       Excerpt Abstract Motivation: When running experiments that involve multiple high density oligonucleotide arrays, it is important to remove sources of variation between arrays of non-biological origin. Normalization is a process for reducing this variation. It is common to see 
+
+         Title Genome sequence and comparative analysis of the solvent-producing bacterium Clostridium acetobutylicum
+           URL http://jb.asm.org/content/183/16/4823.short
           Year 2001
-     Citations 828
-      Versions 4
-    Cluster ID 12374103948505622193
-      PDF link http://valueadvisors.com/Attachments/Book%20Review%20-%20pdf.pdf
-Citations list http://scholar.google.com/scholar?cites=12374103948505622193&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=12374103948505622193&hl=en&as_sdt=0,5
-       Excerpt ... To reap EVA's benefits, you must adopt it as a performance metric from the top down. ...The book honestly assesses EVA's power to motivate managers, noting that somecompanies just are not well-suited for this performance metric. ...
-
-         Title Capture Index: An Airflow-Based Rack Cooling Performance Metric.
-           URL http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00012505&AN=25258530&h=%2BlpeOEDLZCk%2FHzq7%2BilQFqzqjZFk5vbNUqQT9pyfWB5bZ8JSSyyIPbRx3gzla4cAL7m6a6KNpFXqA9gi%2F%2BLDYA%3D%3D&crl=c
-          Year 2007
-     Citations 73
-      Versions 0
-    Cluster ID 8815486944460033398
-Citations list http://scholar.google.com/scholar?cites=8815486944460033398&as_sdt=2005&sciodt=0,5&hl=en
-       Excerpt Abstract The dimensionless capture index (CI) is proposed as a cooling performance metric based solely on the airflow patterns associated with the supply of cool air to, or the removal of hot air from, a rack. The capture index is typically a rack-by-rack metric and has values 
-
-         Title Guidelines for Considering New Performance Metric Development
-           URL http://scholar.google.com/https://tools.ietf.org/html/rfc6390.html
-          Year 2011
-     Citations 67
-      Versions 5
-    Cluster ID 16992118864273095395
-Citations list http://scholar.google.com/scholar?cites=16992118864273095395&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=16992118864273095395&hl=en&as_sdt=0,5
-       Excerpt ... ISSN: 2070-1721 October 2011 Guidelines for Considering New Performance MetricDevelopment Abstract This document describes a framework and a process for developingPerformance Metrics of protocols and applications transported over IETF-specified protocols.
+     Citations 722
+      Versions 20
+    Cluster ID 15521367965674708583
+Citations list http://scholar.google.com/scholar?cites=15521367965674708583&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15521367965674708583&hl=en&as_sdt=0,5
+       Excerpt ABSTRACT The genome sequence of the solvent-producing bacteriumClostridium acetobutylicum ATCC 824 has been determined by the shotgun approach. The genome consists of a 3.94-Mb chromosome and a 192-kb megaplasmid that contains the majority of 
 
