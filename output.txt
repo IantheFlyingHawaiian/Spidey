@@ -1,7 +1,7 @@
          Title A review of feature selection techniques in bioinformatics
            URL http://bioinformatics.oxfordjournals.org/content/23/19/2507.short
           Year 2007
-     Citations 2674
+     Citations 2677
       Versions 19
     Cluster ID 11372466769267737708
 Citations list http://scholar.google.com/scholar?cites=11372466769267737708&as_sdt=2005&sciodt=0,5&hl=en
@@ -21,7 +21,7 @@ Citations list http://scholar.google.com/scholar?cites=16891855498158235101&as_s
          Title Biopython: freely available Python tools for computational molecular biology and bioinformatics
            URL http://bioinformatics.oxfordjournals.org/content/25/11/1422.short
           Year 2009
-     Citations 923
+     Citations 924
       Versions 30
     Cluster ID 6316066505201525806
 Citations list http://scholar.google.com/scholar?cites=6316066505201525806&as_sdt=2005&sciodt=0,5&hl=en
@@ -61,7 +61,7 @@ Citations list http://scholar.google.com/scholar?cites=2600286865416645873&as_sd
          Title APE: analyses of phylogenetics and evolution in R language
            URL http://bioinformatics.oxfordjournals.org/content/20/2/289.short
           Year 2004
-     Citations 4524
+     Citations 4525
       Versions 18
     Cluster ID 16558917089922882878
 Citations list http://scholar.google.com/scholar?cites=16558917089922882878&as_sdt=2005&sciodt=0,5&hl=en
@@ -81,7 +81,7 @@ Citations list http://scholar.google.com/scholar?cites=9222305984983609561&as_sd
          Title A comparison of normalization methods for high density oligonucleotide array data based on variance and bias
            URL http://bioinformatics.oxfordjournals.org/content/19/2/185.short
           Year 2003
-     Citations 6714
+     Citations 6715
       Versions 26
     Cluster ID 574339648835136746
 Citations list http://scholar.google.com/scholar?cites=574339648835136746&as_sdt=2005&sciodt=0,5&hl=en
@@ -91,7 +91,7 @@ Citations list http://scholar.google.com/scholar?cites=574339648835136746&as_sdt
          Title Genome sequence and comparative analysis of the solvent-producing bacterium Clostridium acetobutylicum
            URL http://jb.asm.org/content/183/16/4823.short
           Year 2001
-     Citations 722
+     Citations 723
       Versions 20
     Cluster ID 15521367965674708583
 Citations list http://scholar.google.com/scholar?cites=15521367965674708583&as_sdt=2005&sciodt=0,5&hl=en

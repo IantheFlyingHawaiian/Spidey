@@ -10,6 +10,7 @@ import subprocess
 import webbrowser
 import nltk
 from nltk.corpus import stopwords
+from collections import Counter
 
 
 
@@ -40,7 +41,9 @@ def simplifyArray(array):
     #dler._update_index()
     #dler._status_cache['panlex_lite'] = 'installed'
     #dler.download('corpus')
-        
+
+#displays the URLS out of the selected objects
+#returns the objects that only have URLS        
 def displayUrl(array, researchObjects):
     count = 0
     documentsDisplayID = []
@@ -62,6 +65,23 @@ def displayUrl(array, researchObjects):
             print "don't open Document %d" % count
         count = count + 1
     return documentsDisplayID
+
+def removeCommonWords(documents,table):
+    #remove the common words using the Natural Language ToolKit
+   s = set(stopwords.words('english'))
+   documentlist = []
+   #Remove the common words in documents disliked
+   for i in documents:
+       print i
+       print table.list[i][0]['Title']
+       str1 = table.list[i][0]['Excerpt']
+       str1Stopped = filter(lambda w: not w in s, str1.split())
+       print str1Stopped
+       print table.wordListToFreqDict(str1Stopped)
+       documentlist.append(table.wordListToFreqDict(str1Stopped))
+   return documentlist
+
+
 
 
 def main(argv):
@@ -116,6 +136,8 @@ def main(argv):
    #print t.list
    
    documentDispIDs = displayUrl(checkDocs, t.list)
+   documentsLiked = []
+   documentsDisliked = []
    
    #Query the user to see if they like the documents
    count = 0
@@ -133,9 +155,11 @@ def main(argv):
        var = var.lower()
        if var == 'yes':
            print 'User liked this Document'
+           documentsLiked.append(i)
            count = count + 1
        else:
            print 'User did not like this Document'
+           documentsDisliked.append(i)
    print '----------------Performance -------------------'
    print 'Recommended Document Count: %d' % total
    print 'Total documents: %d' % total
@@ -145,13 +169,23 @@ def main(argv):
    
    #remove the common words using the Natural Language ToolKit
    s = set(stopwords.words('english'))
-   for i in range(0,total):
+   #Remove the common words in the documents liked
+   goodDocs = removeCommonWords(documentsLiked, t)
+   
+   #Remove the common words in documents disliked
+   badDocs = removeCommonWords(documentsDisliked, t)
+   
+   print '-------------------Good Docs Cleaned-----------------------'
+   print goodDocs
+   print '-------------------Find the Most Common Words-----------------------'
+   for i in goodDocs:
        print i
-       print t.list[i][0]['Title']
-       str1 = t.list[i][0]['Excerpt']
-       str1Stopped = filter(lambda w: not w in s, str1.split())
-       print str1Stopped
-       print t.wordListToFreqDict(str1Stopped)
+       c = Counter(i)
+       print c.most_common(3)
+   
+   print '-------------------Bad Docs Cleaned-----------------------'
+   print badDocs
+   
 
    #print t.wordListToFreqDict(t.list[0][0]['Excerpt'].split())
 
