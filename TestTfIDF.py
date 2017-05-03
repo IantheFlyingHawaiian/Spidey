@@ -152,6 +152,7 @@ class TestTable:
         # check how many lines in one object  
         #countLinesObject(linesFile)
         list =  self.arrayAllLinefile()
+        self.list = list
         print '----------------LIST OF RESEARCH DICT OBJECTS---------------/n'
         print list
         print '-------------------------------------------/n'

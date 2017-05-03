@@ -7,6 +7,7 @@ from TestTfIDF import TestTable
 import time
 from kmeans import KmeansTest
 import subprocess
+import webbrowser
 
 
 def searchGoogle(textSearch):
@@ -30,6 +31,27 @@ def simplifyArray(array):
         print a
         newarray.append(a)
     return newarray    
+    
+def displayUrl(array, researchObjects):
+    count = 0
+    
+    for i in array:
+        print i
+        if i==1:
+            #open URL
+            print 'OPEN URL'
+            if('URL' in researchObjects[count][0].keys()):
+                print "Opening Document %d" % count
+                print researchObjects[count][0]['URL']
+                url = researchObjects[count][0]['URL']
+                webpage = url.split()[1]
+                webbrowser.open(webpage)
+        else:
+            #Do nothing
+            print "don't open Document %d" % count
+        count = count + 1
+    return None
+        
 
 def main(argv):
    textSearch = ''
@@ -53,7 +75,7 @@ def main(argv):
        
    
    searchGoogle(textSearch)
-   time.sleep(5)
+   time.sleep(1)
    print "Enter in keywords for the tfidf"
    keywords = raw_input()
    keywords = keywords.split()
@@ -76,7 +98,11 @@ def main(argv):
    
    kmeans2 = KmeansTest()
    kmeans2.setNpArray(a)
-   kmeans2.calc()
+   checkDocs = kmeans2.calc()
+   #print t.list
+   
+   displayUrl(checkDocs, t.list)
+   
    #f = open("output.txt", 'w')
    #keywords = ['government', 'USA','combat', 'Flying']
    #tfidfTest2.calc(keywords)
