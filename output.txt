@@ -1,100 +1,84 @@
-         Title A review of feature selection techniques in bioinformatics
-           URL http://bioinformatics.oxfordjournals.org/content/23/19/2507.short
-          Year 2007
-     Citations 2677
-      Versions 19
-    Cluster ID 11372466769267737708
-Citations list http://scholar.google.com/scholar?cites=11372466769267737708&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=11372466769267737708&hl=en&as_sdt=0,5
-       Excerpt Abstract Feature selection techniques have become an apparent need in many bioinformatics applications. In addition to the large pool of techniques that have already been developed in the machine learning and data mining fields, specific applications in 
-
-         Title Taverna: a tool for the composition and enactment of bioinformatics workflows
-           URL http://bioinformatics.oxfordjournals.org/content/20/17/3045.short
-          Year 2004
-     Citations 1576
-      Versions 23
-    Cluster ID 16891855498158235101
-Citations list http://scholar.google.com/scholar?cites=16891855498158235101&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=16891855498158235101&hl=en&as_sdt=0,5
-       Excerpt Abstract Motivation: In silico experiments in bioinformatics involve the co-ordinated use of computational tools and information repositories. A growing number of these resources are being made available with programmatic access in the form of Web services. Bioinformatics 
-
-         Title Biopython: freely available Python tools for computational molecular biology and bioinformatics
-           URL http://bioinformatics.oxfordjournals.org/content/25/11/1422.short
-          Year 2009
-     Citations 924
-      Versions 30
-    Cluster ID 6316066505201525806
-Citations list http://scholar.google.com/scholar?cites=6316066505201525806&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=6316066505201525806&hl=en&as_sdt=0,5
-       Excerpt Summary: The Biopython project is a mature open source international collaboration of volunteer developers, providing Python libraries for a wide range of bioinformatics problems. Biopython includes modules for reading and writing different sequence file formats and 
-
-         Title Data mining in bioinformatics using Weka
-           URL http://bioinformatics.oxfordjournals.org/content/20/15/2479.short
-          Year 2004
-     Citations 660
-      Versions 28
-    Cluster ID 7701556340915497186
-Citations list http://scholar.google.com/scholar?cites=7701556340915497186&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=7701556340915497186&hl=en&as_sdt=0,5
-       Excerpt Summary: The Weka machine learning workbench provides a general-purpose environment for automatic classification, regression, clustering and feature selection—common data mining problems in bioinformatics research. It contains an extensive collection of machine 
-
-         Title myGrid: personalised bioinformatics on the information grid
-           URL http://bioinformatics.oxfordjournals.org/content/19/suppl_1/i302.short
+         Title BioinformaticsBioinformatics
+           URL http://jama.jamanetwork.com/article.aspx?articleid=197860
           Year 2003
-     Citations 488
-      Versions 14
-    Cluster ID 6735941768307590521
-Citations list http://scholar.google.com/scholar?cites=6735941768307590521&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=6735941768307590521&hl=en&as_sdt=0,5
-       Excerpt Abstract Motivation: The my Grid project aims to exploit Grid technology, with an emphasis on the Information Grid, and provide middleware layers that make it appropriate for the needs of bioinformatics. my Grid is building high level services for data and application 
+     Citations 0
+      Versions 5
+ Versions list http://scholar.google.com/scholar?cluster=13528220451471450304&hl=en&as_sdt=0,5
+       Excerpt THIS IS A WELL THOUGHT-OUT AND WELL put-together “cookbook” for those just starting out in the relatively new field of bioinformatics and for occasional users who need a concise and thorough reference on how to perform the tasks it explains. The authors are highly 
 
-         Title TAMBIS: transparent access to multiple bioinformatics information sources
-           URL http://bioinformatics.oxfordjournals.org/content/16/2/184.short
-          Year 2000
-     Citations 339
-      Versions 14
-    Cluster ID 2600286865416645873
-Citations list http://scholar.google.com/scholar?cites=2600286865416645873&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=2600286865416645873&hl=en&as_sdt=0,5
-       Excerpt Summary: TAMBIS (Transparent Access to Multiple Bioinformatics Information Sources) is an application that allows biologists to ask rich and complex questions over a range of bioinformatics resources. It is based on a model of the knowledge of the concepts and their 
+         Title BioinformaticsBioinformatics
+           URL http://link.springer.com/10.1007/978-1-4020-5614-7_248
+          Year 2008
+     Citations 0
+      Versions 0
+       Excerpt ► Biostatistics is the application of► statistics in health-related fields, including public health, medicine and biology, and the development of new tools to study these areas. Biostatistics constitutes the quantitative foundation for public health practice and research. It 
 
-         Title APE: analyses of phylogenetics and evolution in R language
-           URL http://bioinformatics.oxfordjournals.org/content/20/2/289.short
-          Year 2004
-     Citations 4525
-      Versions 18
-    Cluster ID 16558917089922882878
-Citations list http://scholar.google.com/scholar?cites=16558917089922882878&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=16558917089922882878&hl=en&as_sdt=0,5
-       Excerpt Summary: Analysis of Phylogenetics and Evolution (APE) is a package written in the R language for use in molecular evolution and phylogenetics. APE provides both utility functions for reading and writing data and manipulating phylogenetic trees, as well as 
+         Title Systematic approach to basic local alignment search tool (BLAST) in bioinformatics
+           URL http://search.proquest.com/openview/c33b0a939991d86d1d91cd3a9c3f4280/1?pq-origsite=gscholar&cbl=18750&diss=y
+          Year 2013
+     Citations 0
+      Versions 0
+       Excerpt ... Role of Dynamic Programming in BioinformaticsBioinformatics offers biologists a different wayto conduct experiments, instead ofusing an expensive laboratory, equipment and living creatures;biologists are able toconduct simulated experiments with a computer. ...
 
-         Title Mega
-           URL http://scholar.google.com/https://asu.pure.elsevier.com/en/publications/mega-molecular-evolutionary-genetics-analysis-software-for-microc
-          Year 1994
-     Citations 835
+         Title Key Technologies and Tools for Functional Glycobiology: Introduction
+           URL http://link.springer.com/10.1007/978-3-540-30429-6_53
+          Year 2008
+     Citations 0
+      Versions 3
+ Versions list http://scholar.google.com/scholar?cluster=7190715060122109470&hl=en&as_sdt=0,5
+       Excerpt ... Functional glycomicsFunctional glycomics; MicroarrayMicroarrays; MassspectrometryMass spectrometry (MS); Chemical probeChemical probe; MolecularimagingMolecular imaging; BioinformaticsBioinformatics. Industry Sectors: ...
+
+         Title Regulation by the quorum sensor from Vibrio indicates a receptor function for the membrane anchors of adenylate cyclases
+           URL http://scholar.google.com/https://elifesciences.org/content/5/e13098
+          Year 2016
+     Citations 5
+      Versions 11
+    Cluster ID 4315681394647608297
+Citations list http://scholar.google.com/scholar?cites=4315681394647608297&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4315681394647608297&hl=en&as_sdt=0,5
+       Excerpt Regulation by the quorum sensor from Vibrio indicates a receptor function for the membraneanchors of adenylate cyclases | A canonical class III adenylate cyclase with a membrane anchorof six transmembrane spans is regulated by a receptor of similar design, the quorum-sensing ...
+
+         Title System and method for resource adaptive classification of data streams
+           URL http://www.google.com/patents/US8165979
+          Year 2012
+     Citations 3
+      Versions 5
+    Cluster ID 5042891027973381160
+Citations list http://scholar.google.com/scholar?cites=5042891027973381160&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5042891027973381160&hl=en&as_sdt=0,5
+       Excerpt ... Non-Patent Citations. Reference. 1, 2006 VLDB Workshop on Data Mining inBioinformaticsBioInformatics; retrieved from the internet at: http://bio.informatics.indiana.edu/VLDB06/importantdates.html on Nov. 4, 2009; 2006. 2, ...
+
+         Title Sustainability in the Chemical Industry: Grand Challenges and Research Needs-A Workshop Report
+           URL http://books.google.com/books?hl=en&lr=&id=i6OcAgAAQBAJ&oi=fnd&pg=PA1&dq=%22Bioinformaticsbioinformatics%22&ots=qTuMIfn9u7&sig=KzhxahflfDlb0pl0bDZThTRPhPQ
+          Year 2005
+     Citations 24
       Versions 2
-    Cluster ID 9222305984983609561
-Citations list http://scholar.google.com/scholar?cites=9222305984983609561&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=9222305984983609561&hl=en&as_sdt=0,5
-       Excerpt Abstract A computer program package called MEGA has been developed for estimating evolutionary distances, reconstructing phylogenetic trees and computing basic statistical quantities from molecular data. It is written in C++ and is intended to be used on IBM and 
+    Cluster ID 17854478657480502558
+Citations list http://scholar.google.com/scholar?cites=17854478657480502558&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=17854478657480502558&hl=en&as_sdt=0,5
+       Excerpt Page 1. http://www.nap.edu/catalog/11437.html We ship printed books within 1 businessday; personal PDFs are available immediately. Sustainability in the Chemical Industry:Grand Challenges and Research Needs - A Workshop ...
 
-         Title A comparison of normalization methods for high density oligonucleotide array data based on variance and bias
-           URL http://bioinformatics.oxfordjournals.org/content/19/2/185.short
-          Year 2003
-     Citations 6715
-      Versions 26
-    Cluster ID 574339648835136746
-Citations list http://scholar.google.com/scholar?cites=574339648835136746&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=574339648835136746&hl=en&as_sdt=0,5
-       Excerpt Abstract Motivation: When running experiments that involve multiple high density oligonucleotide arrays, it is important to remove sources of variation between arrays of non-biological origin. Normalization is a process for reducing this variation. It is common to see 
+         Title Dictionary of Environment and Ecology: Over 7,000 terms clearly defined
+          Year 2010
+     Citations 44
+      Versions 4
+    Cluster ID 2089098483950415885
+Citations list http://scholar.google.com/scholar?cites=2089098483950415885&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2089098483950415885&hl=en&as_sdt=0,5
 
-         Title Genome sequence and comparative analysis of the solvent-producing bacterium Clostridium acetobutylicum
-           URL http://jb.asm.org/content/183/16/4823.short
-          Year 2001
-     Citations 723
-      Versions 20
-    Cluster ID 15521367965674708583
-Citations list http://scholar.google.com/scholar?cites=15521367965674708583&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=15521367965674708583&hl=en&as_sdt=0,5
-       Excerpt ABSTRACT The genome sequence of the solvent-producing bacteriumClostridium acetobutylicum ATCC 824 has been determined by the shotgun approach. The genome consists of a 3.94-Mb chromosome and a 192-kb megaplasmid that contains the majority of 
+         Title Genetic epistemology of science and scientist in the human genome field
+           URL http://search.proquest.com/openview/39fe182329c0aa4fa082e75b635b6a0f/1?pq-origsite=gscholar&cbl=18750&diss=y
+          Year 2011
+     Citations 0
+      Versions 0
+       Excerpt Genetic epistemology of science and scientist in the human genome field. Abstract. Thisresearch explores the construct of intelligence, challenging some of the paradigmaticassumptions regarding its structure, distribution, and location. ...
+
+         Title Alan Rector & Jeremy Rogers
+           URL http://scholar.google.com/https://pdfs.semanticscholar.org/d4ae/9fa8cfbd9df8a9b7894e8cbeef1237f60991.pdf
+          Year 2005
+     Citations 0
+      Versions 5
+      PDF link http://scholar.google.com/https://pdfs.semanticscholar.org/d4ae/9fa8cfbd9df8a9b7894e8cbeef1237f60991.pdf
+ Versions list http://scholar.google.com/scholar?cluster=3896591214193326710&hl=en&as_sdt=0,5
+       Excerpt Page 1. December 2005 Computer Science University of Manchester Ontological & PracticalIssues in using a Description Logic to Represent Medical Concepts: Experience from GALENAlan Rector & Jeremy Rogers School of Computer Science The University of Manchester ...
 

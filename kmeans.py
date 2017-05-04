@@ -105,33 +105,24 @@ class KmeansTest:
         
         return y_pred2
         
+    def allYPredAllTheSame(self, y_pred2):
+        isAllZeroes = True
+        for i in y_pred2:
+            if i == 1:
+                isAllZeroes = False
+                break;
+        return isAllZeroes        
+
+    def setArrayToAllOnes(self, y_pred2):
+        isAllZeroes = True
+        y_pred3 = []
+        for i in y_pred2:
+            y_pred3.append(1)
+        return y_pred3
+                
         
     def calc(self):
         #print '----------------------X VARIED------------------'
-        '''print self.X_Varied
-        plt.figure(figsize=(12, 12))
-        n_samples = 1500
-        random_state = 170
-        X, y = make_blobs(n_samples=n_samples, random_state=random_state)
-                                                 
-        kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
-        print(self.X_varied)
-        print(kmeans)
-        kmeans.labels_
-        kmeans.predict([[0,0], [4,4]])
-        kmeans.cluster_centers_
-        
-        #X_Varied = np.array(self.X_Varied)
-        print '---------------------- X VARIED --------------------'
-        print(self.X_varied)
-        y_pred = KMeans(n_clusters=2, random_state=random_state).fit_predict(self.X_Varied)
-        
-        print(y_pred)
-        plt.plot()
-        plt.scatter(self.X_varied[:, 0], self.X_varied[:, 1], c=y_pred)
-        #plt.title("Unequal Variance")
-        plt.title("Kmeans Clustering")
-        plt.show()'''
         
         plt.figure(figsize=(12, 12))
         n_samples = 1500
@@ -159,6 +150,9 @@ class KmeansTest:
         plt.show()
         
         y_pred = self.cleanYPred(y_pred)
+        isAllZeroes = self.allYPredAllTheSame(y_pred)
+        if isAllZeroes is True:
+            y_pred = self.setArrayToAllOnes(y_pred)
         
         return y_pred
         

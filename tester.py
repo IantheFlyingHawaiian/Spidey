@@ -11,6 +11,7 @@ import webbrowser
 import nltk
 from nltk.corpus import stopwords
 from collections import Counter
+import re
 
 
 
@@ -18,7 +19,7 @@ def searchGoogle(textSearch):
     print("Starting Google Scholar Search")
     #TODO replace all spaces with % for query
     textSearch = textSearch.replace(" ", "%")
-    os.system("python scholar.py -c 10 --phrase %s > output.txt" % textSearch)
+    os.system("python scholar.py -c 30 --phrase %s > output.txt" % textSearch)
     #cmd = "scholar.py -c 10 --phrase %s > output.txt" % textSearch
     #cmd = cmd.split()
     #subprocess.call(cmd, shell=False)
@@ -67,47 +68,56 @@ def displayUrl(array, researchObjects):
     return documentsDisplayID
 
 def removeCommonWords(documents,table):
-    #remove the common words using the Natural Language ToolKit
+   #remove the common words using the Natural Language ToolKit
    s = set(stopwords.words('english'))
+   str1Stopped = ""
    documentlist = []
-   #Remove the common words in documents disliked
+   #compile the good documents into one large string
    for i in documents:
        print i
-       print table.list[i][0]['Title']
-       str1 = table.list[i][0]['Excerpt']
-       str1Stopped = filter(lambda w: not w in s, str1.split())
-       print str1Stopped
-       print table.wordListToFreqDict(str1Stopped)
-       documentlist.append(table.wordListToFreqDict(str1Stopped))
-   return documentlist
+       str2 = ''
+       str1 = ''
+       if('Title' in table.list[i][0].keys()):
+         print table.list[i][0]['Title']
+         str2 = table.list[i][0]['Title']
+       if('Excerpt' in table.list[i][0].keys()):
+         str1 = table.list[i][0]['Excerpt']
+       str1Stopped = str1 + " " + str1Stopped + " " + str2 + " "
+       #print str1Stopped
+       #print table.wordListToFreqDict(str1Stopped)
+       #documentlist.append(table.wordListToFreqDict(str1Stopped))
+   #make strings all lower case
+   str1Stopped = str1Stopped.lower()
+   print str1Stopped
+   #remove Excerpt and title from string
+   print '-----------------remove excerpt and title from text-------'
+   remove_list = ['excerpt', 'title', 'summary']
+   word_list = str1Stopped.split()
+   word_list = ' '.join([i for i in word_list if i not in remove_list])
+   print '-----------------word_list-------'
+   print word_list
+   print '-----------------common words removed-------'
+   word_list = filter(lambda w: not w in s, word_list.split())
+   return word_list
 
-
-
-
-def main(argv):
-   #initialize Nltk
-   #setupNltk()
-    
-   textSearch = ''
-   outputfile = ''
-   try:
-      opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
-   except getopt.GetoptError:
-      print ("test.py -i <textSearch> -o <outputfile>")
-      sys.exit(2)
-   for opt, arg in opts:
-      if opt == '-h':
-         print ("test.py -i <textSearch> -o <outputfile>")
-         sys.exit()
-      elif opt in ("-i", "--ifile"):
-         textSearch = arg
-      elif opt in ("-o", "--ofile"):
-         outputfile = arg
-   print('Text Search is "%s"' % textSearch)
-   print ('Output file is "%s"' % outputfile)
+def commonWords(word_list):
+   c = Counter(word_list)
+   print c.most_common(6)
+   return c.most_common(6)
    
-       
+   #Remove the common words in documents disliked
    
+   #for i in documents:
+   #    print i
+   #    print table.list[i][0]['Title']
+   #    str1 = table.list[i][0]['Excerpt']
+   #    str1Stopped = filter(lambda w: not w in s, str1.split())
+   #    print str1Stopped
+   #    print table.wordListToFreqDict(str1Stopped)
+   #    documentlist.append(table.wordListToFreqDict(str1Stopped))
+   #return documentlist
+
+def run(textSearch):
    searchGoogle(textSearch)
    time.sleep(1)
    print "Enter in keywords for the tfidf"
@@ -170,22 +180,86 @@ def main(argv):
    #remove the common words using the Natural Language ToolKit
    s = set(stopwords.words('english'))
    #Remove the common words in the documents liked
-   goodDocs = removeCommonWords(documentsLiked, t)
+   goodTextWords = removeCommonWords(documentsLiked, t)
    
    #Remove the common words in documents disliked
-   badDocs = removeCommonWords(documentsDisliked, t)
+   badTextWords = removeCommonWords(documentsDisliked, t)
    
    print '-------------------Good Docs Cleaned-----------------------'
-   print goodDocs
-   print '-------------------Find the Most Common Words-----------------------'
-   for i in goodDocs:
-       print i
-       c = Counter(i)
-       print c.most_common(3)
+   print goodTextWords
+   print '-------------------Good Text: Find the Most Common Words-----------------------'
+   #print commonWords(goodTextWords)
+   commonWords2 = commonWords(goodTextWords)
+   print commonWords2
+   print '-------------------Bad Text: Find the Most Common Words-----------------------'
+   print commonWords(badTextWords)
    
-   print '-------------------Bad Docs Cleaned-----------------------'
-   print badDocs
+   values = [t.performance, commonWords2]
+   return values
    
+
+
+def main(argv):
+   #initialize Nltk
+   #setupNltk()
+   performanceMetricThreshold = 60
+   performanceAvg = 0.0
+   searchCount = 0
+   running = True
+    
+    
+   textSearch = ''
+   outputfile = ''
+   try:
+      opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
+   except getopt.GetoptError:
+      print ("test.py -i <textSearch> -o <outputfile>")
+      sys.exit(2)
+   for opt, arg in opts:
+      if opt == '-h':
+         print ("test.py -i <textSearch> -o <outputfile>")
+         sys.exit()
+      elif opt in ("-i", "--ifile"):
+         textSearch = arg
+      elif opt in ("-o", "--ofile"):
+         outputfile = arg
+   print('Text Search is "%s"' % textSearch)
+   print ('Output file is "%s"' % outputfile)
+   
+   while(1):
+       values = run(textSearch)
+       print '----------values------------'
+       print values
+       currentPerformance = values[0]
+       commonWords = values[1]
+       if(searchCount == 0):
+           performanceAvg = currentPerformance
+       else:
+           performanceAvg = float(performanceAvg + currentPerformance) / 2.0 
+       
+       print '-----------------Performance Average: %f---------------------' % performanceAvg
+       
+       if(performanceAvg < performanceMetricThreshold):
+           print 'Performance performanced below threshold: %d %' % performanceMetricThreshold
+           print commonWords
+           print commonWords[0]
+           print commonWords[0][1]
+           word = commonWords[0][0]
+           textSearch = textSearch + word
+           print 'Starting new search with %s ' % textSearch
+           
+       else:
+           var = raw_input("Would you like to Continue Searching? (yes or no) ")
+           var = var.lower()
+           if var == 'yes':
+              print 'User liked this Document'
+              print 'Using the same query enter in a different keyword'
+              #documentsLiked.append(i)
+              #count = count + 1
+           else:
+             print 'End of Program'
+             break;
+       searchCount = searchCount + 1   
 
    #print t.wordListToFreqDict(t.list[0][0]['Excerpt'].split())
 
