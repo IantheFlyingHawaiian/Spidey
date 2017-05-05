@@ -19,7 +19,10 @@ def searchGoogle(textSearch):
     print("Starting Google Scholar Search")
     #TODO replace all spaces with % for query
     textSearch = textSearch.replace(" ", "%")
-    os.system("python scholar.py -c 30 --phrase %s > output.txt" % textSearch)
+    #os.system("python scholar.py -c 30 --count 40 --phrase %s > output.txt" % textSearch)
+    badword = "tool"
+    #results will have some of these words
+    os.system("python scholar.py -c 10 --count 10 --some %s --none %s > output.txt" % (textSearch, badword))
     #cmd = "scholar.py -c 10 --phrase %s > output.txt" % textSearch
     #cmd = cmd.split()
     #subprocess.call(cmd, shell=False)
@@ -91,7 +94,7 @@ def removeCommonWords(documents,table):
    print str1Stopped
    #remove Excerpt and title from string
    print '-----------------remove excerpt and title from text-------'
-   remove_list = ['excerpt', 'title', 'summary']
+   remove_list = ['excerpt', 'title', 'summary', '...', 'abstract']
    word_list = str1Stopped.split()
    word_list = ' '.join([i for i in word_list if i not in remove_list])
    print '-----------------word_list-------'
@@ -193,11 +196,14 @@ def run(textSearch):
    print commonWords2
    print '-------------------Bad Text: Find the Most Common Words-----------------------'
    print commonWords(badTextWords)
+   badWords2 = commonWords(badTextWords)
    
-   values = [t.performance, commonWords2]
+   values = [t.performance, commonWords2, badWords2]
    return values
-   
-
+  
+def removeNumbersFromList(mylist):
+    listNoInt = [x for x in mylist if not isinstance(x, int)]
+    return listNoInt
 
 def main(argv):
    #initialize Nltk
@@ -206,6 +212,7 @@ def main(argv):
    performanceAvg = 0.0
    searchCount = 0
    running = True
+   badWords = '-n '
     
     
    textSearch = ''
@@ -232,6 +239,9 @@ def main(argv):
        print values
        currentPerformance = values[0]
        commonWords = values[1]
+       badWords = values[2]
+       print '\nGOOD WORDS FROM RUN: {}'.format(commonWords)
+       print '\nBAD WORDS FROM RUN: {}'.format(badWords)
        if(searchCount == 0):
            performanceAvg = currentPerformance
        else:
@@ -240,12 +250,38 @@ def main(argv):
        print '-----------------Performance Average: %f---------------------' % performanceAvg
        
        if(performanceAvg < performanceMetricThreshold):
-           print 'Performance performanced below threshold: %d %' % performanceMetricThreshold
-           print commonWords
-           print commonWords[0]
-           print commonWords[0][1]
-           word = commonWords[0][0]
-           textSearch = textSearch + word
+           print 'Performance performanced below threshold: %d' % performanceMetricThreshold
+           if commonWords[0] is None:
+               break;
+           print 'COMMON WORDS: {}'.format(commonWords[0])
+           words = commonWords[0]
+           print '-----------common words------'
+           print words
+           
+           print 'REMOVE numbers from common list'
+           words = removeNumbersFromList(words)
+           print '\n----------------common words without numbers----------\n'
+           print words
+           currentSearch = textSearch.split()
+           print currentSearch
+           
+           
+           wordFound = False
+           for word in words:
+               if(wordFound):
+                   break;
+               print word
+               
+               if word not in currentSearch:
+                   if not wordFound:
+                       textSearch = textSearch + ' ' +  word
+                       wordFound = True
+                   else:
+                       break;
+                   print '\n-----------------added word, new textSearch: %s ------------\n' % textSearch
+                   
+            
+           #find most frequent word that isn't already in the title
            print 'Starting new search with %s ' % textSearch
            
        else:
@@ -254,6 +290,9 @@ def main(argv):
            if var == 'yes':
               print 'User liked this Document'
               print 'Using the same query enter in a different keyword'
+              #start new search without the bad words
+              
+              
               #documentsLiked.append(i)
               #count = count + 1
            else:

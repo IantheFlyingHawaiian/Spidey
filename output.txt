@@ -1,84 +1,97 @@
-         Title BioinformaticsBioinformatics
-           URL http://jama.jamanetwork.com/article.aspx?articleid=197860
-          Year 2003
-     Citations 0
-      Versions 5
- Versions list http://scholar.google.com/scholar?cluster=13528220451471450304&hl=en&as_sdt=0,5
-       Excerpt THIS IS A WELL THOUGHT-OUT AND WELL put-together “cookbook” for those just starting out in the relatively new field of bioinformatics and for occasional users who need a concise and thorough reference on how to perform the tasks it explains. The authors are highly 
+         Title Relativity: The special and the general theory
+           URL http://books.google.com/books?hl=en&lr=&id=xNiqBwAAQBAJ&oi=fnd&pg=PP1&dq=Einstein%25general+-tool&ots=ynezlKcbyH&sig=h2eEFMWT4M3ihzGsIzgkX58rlF4
+          Year 2015
+     Citations 2602
+      Versions 92
+    Cluster ID 8349134514512365633
+Citations list http://scholar.google.com/scholar?cites=8349134514512365633&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=8349134514512365633&hl=en&as_sdt=0,5
+       Excerpt After completing the final version of his general theory of relativity in November 1915, Albert Einstein wrote a book about relativity for a popular audience. His intention was" to give an exact insight into the theory of relativity to those readers who, from a general scientific and 
 
-         Title BioinformaticsBioinformatics
-           URL http://link.springer.com/10.1007/978-1-4020-5614-7_248
-          Year 2008
-     Citations 0
-      Versions 0
-       Excerpt ► Biostatistics is the application of► statistics in health-related fields, including public health, medicine and biology, and the development of new tools to study these areas. Biostatistics constitutes the quantitative foundation for public health practice and research. It 
-
-         Title Systematic approach to basic local alignment search tool (BLAST) in bioinformatics
-           URL http://search.proquest.com/openview/c33b0a939991d86d1d91cd3a9c3f4280/1?pq-origsite=gscholar&cbl=18750&diss=y
-          Year 2013
-     Citations 0
-      Versions 0
-       Excerpt ... Role of Dynamic Programming in BioinformaticsBioinformatics offers biologists a different wayto conduct experiments, instead ofusing an expensive laboratory, equipment and living creatures;biologists are able toconduct simulated experiments with a computer. ...
-
-         Title Key Technologies and Tools for Functional Glycobiology: Introduction
-           URL http://link.springer.com/10.1007/978-3-540-30429-6_53
-          Year 2008
-     Citations 0
-      Versions 3
- Versions list http://scholar.google.com/scholar?cluster=7190715060122109470&hl=en&as_sdt=0,5
-       Excerpt ... Functional glycomicsFunctional glycomics; MicroarrayMicroarrays; MassspectrometryMass spectrometry (MS); Chemical probeChemical probe; MolecularimagingMolecular imaging; BioinformaticsBioinformatics. Industry Sectors: ...
-
-         Title Regulation by the quorum sensor from Vibrio indicates a receptor function for the membrane anchors of adenylate cyclases
-           URL http://scholar.google.com/https://elifesciences.org/content/5/e13098
-          Year 2016
-     Citations 5
-      Versions 11
-    Cluster ID 4315681394647608297
-Citations list http://scholar.google.com/scholar?cites=4315681394647608297&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=4315681394647608297&hl=en&as_sdt=0,5
-       Excerpt Regulation by the quorum sensor from Vibrio indicates a receptor function for the membraneanchors of adenylate cyclases | A canonical class III adenylate cyclase with a membrane anchorof six transmembrane spans is regulated by a receptor of similar design, the quorum-sensing ...
-
-         Title System and method for resource adaptive classification of data streams
-           URL http://www.google.com/patents/US8165979
-          Year 2012
-     Citations 3
-      Versions 5
-    Cluster ID 5042891027973381160
-Citations list http://scholar.google.com/scholar?cites=5042891027973381160&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=5042891027973381160&hl=en&as_sdt=0,5
-       Excerpt ... Non-Patent Citations. Reference. 1, 2006 VLDB Workshop on Data Mining inBioinformaticsBioInformatics; retrieved from the internet at: http://bio.informatics.indiana.edu/VLDB06/importantdates.html on Nov. 4, 2009; 2006. 2, ...
-
-         Title Sustainability in the Chemical Industry: Grand Challenges and Research Needs-A Workshop Report
-           URL http://books.google.com/books?hl=en&lr=&id=i6OcAgAAQBAJ&oi=fnd&pg=PA1&dq=%22Bioinformaticsbioinformatics%22&ots=qTuMIfn9u7&sig=KzhxahflfDlb0pl0bDZThTRPhPQ
-          Year 2005
-     Citations 24
-      Versions 2
-    Cluster ID 17854478657480502558
-Citations list http://scholar.google.com/scholar?cites=17854478657480502558&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=17854478657480502558&hl=en&as_sdt=0,5
-       Excerpt Page 1. http://www.nap.edu/catalog/11437.html We ship printed books within 1 businessday; personal PDFs are available immediately. Sustainability in the Chemical Industry:Grand Challenges and Research Needs - A Workshop ...
-
-         Title Dictionary of Environment and Ecology: Over 7,000 terms clearly defined
-          Year 2010
-     Citations 44
+         Title The principle of relativity: a collection of original memoirs on the special and general theory of relativity
+           URL http://books.google.com/books?hl=en&lr=&id=S1dmLWLhdqAC&oi=fnd&pg=PA1&dq=Einstein%25general+-tool&ots=gDVxz1LmVM&sig=jlL78fboU8hIC2cB0NcgvVAjTjk
+          Year 1952
+     Citations 1257
       Versions 4
-    Cluster ID 2089098483950415885
-Citations list http://scholar.google.com/scholar?cites=2089098483950415885&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=2089098483950415885&hl=en&as_sdt=0,5
+    Cluster ID 12709154330613267777
+Citations list http://scholar.google.com/scholar?cites=12709154330613267777&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12709154330613267777&hl=en&as_sdt=0,5
+       Excerpt This collection of original papers on the special and general theories of relativity is an unabridged translation of the 4th edition of Das Relativitatsprinzip, together with a revised edition of an additional paper by HA Lorentz. CONTENTS: I." Michelson's Interference 
 
-         Title Genetic epistemology of science and scientist in the human genome field
-           URL http://search.proquest.com/openview/39fe182329c0aa4fa082e75b635b6a0f/1?pq-origsite=gscholar&cbl=18750&diss=y
-          Year 2011
-     Citations 0
+         Title The general theory of relativity
+           URL http://link.springer.com/chapter/10.1007/978-94-011-6022-3_3
+          Year 1922
+     Citations 880
+      Versions 3
+    Cluster ID 1585408944786949537
+Citations list http://scholar.google.com/scholar?cites=1585408944786949537&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=1585408944786949537&hl=en&as_sdt=0,5
+       Excerpt Abstract All of the previous considerations have been based upon the assumption that all inertial systems are equivalent for the description of physical phenomena, but that they are preferred, for the formulation of the laws of nature, to spaces of reference in a different state 
+
+         Title The particle problem in the general theory of relativity
+           URL http://scholar.google.com/https://journals.aps.org/pr/abstract/10.1103/PhysRev.48.73
+          Year 1935
+     Citations 719
+      Versions 11
+    Cluster ID 12603935438060482309
+Citations list http://scholar.google.com/scholar?cites=12603935438060482309&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12603935438060482309&hl=en&as_sdt=0,5
+       Excerpt Abstract The writers investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the field, makes use of no other variables than the g μ ν of the general relativity theory and the ϕ μ of the Maxwell theory. By the consideration of a 
+
+         Title Mechanics from Aristotle to Einstein
+           URL http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
+          Year 2007
+     Citations 15
       Versions 0
-       Excerpt Genetic epistemology of science and scientist in the human genome field. Abstract. Thisresearch explores the construct of intelligence, challenging some of the paradigmaticassumptions regarding its structure, distribution, and location. ...
+    Cluster ID 8687171702194005139
+      PDF link http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
+Citations list http://scholar.google.com/scholar?cites=8687171702194005139&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt Page 1. Mechanics from Aristotle to Einstein BOOK DETAILS • Author : Michael J ...BOOK SYNOPSIS MECHANICS FROM ARISTOTLE TO EINSTEIN - Are you lookingfor Ebook Mechanics From Aristotle To Einstein? You will be ...
 
-         Title Alan Rector & Jeremy Rogers
-           URL http://scholar.google.com/https://pdfs.semanticscholar.org/d4ae/9fa8cfbd9df8a9b7894e8cbeef1237f60991.pdf
-          Year 2005
-     Citations 0
+         Title Einstein, general relativity, and the german press, 1919-1920
+           URL http://www.journals.uchicago.edu/doi/pdfplus/10.1086/354042
+          Year 1986
+     Citations 18
       Versions 5
-      PDF link http://scholar.google.com/https://pdfs.semanticscholar.org/d4ae/9fa8cfbd9df8a9b7894e8cbeef1237f60991.pdf
- Versions list http://scholar.google.com/scholar?cluster=3896591214193326710&hl=en&as_sdt=0,5
-       Excerpt Page 1. December 2005 Computer Science University of Manchester Ontological & PracticalIssues in using a Description Logic to Represent Medical Concepts: Experience from GALENAlan Rector & Jeremy Rogers School of Computer Science The University of Manchester ...
+    Cluster ID 2621463786752148543
+Citations list http://scholar.google.com/scholar?cites=2621463786752148543&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2621463786752148543&hl=en&as_sdt=0,5
+       Excerpt Figure 1. Announcement in the Vossische Zeitung, 21 July 1919, of the report in Nature of the successful measurements of the solar eclipse. lecture" Basic Ideas of Relativity Theory," which mentioned the coming solar eclipse for the first time. Even earlier Einstein was better 
+
+         Title Cosmological considerations on the general theory of relativity
+           URL http://adsabs.harvard.edu/abs/1952prel.book..175E
+          Year 1952
+     Citations 315
+      Versions 2
+    Cluster ID 2568546474801535936
+Citations list http://scholar.google.com/scholar?cites=2568546474801535936&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2568546474801535936&hl=en&as_sdt=0,5
+       Excerpt Title: Cosmological considerations on the general theory of relativity. Authors: Einstein,A. Publication: The Principle of Relativity. Dover Books on Physics. June 1, 1952. 240pages. 0486600815 , p. 175-188. Publication Date: 00/1952. Origin: AUTHOR.
+
+         Title The meaning of relativity
+          Year 1956
+     Citations 3117
+      Versions 56
+    Cluster ID 2633145968337492928
+Citations list http://scholar.google.com/scholar?cites=2633145968337492928&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2633145968337492928&hl=en&as_sdt=0,5
+
+         Title On the motion of particles in general relativity theory
+           URL http://books.google.com/books?hl=en&lr=&id=5Z83BQAAQBAJ&oi=fnd&pg=PA175&dq=Einstein%25general+-tool&ots=FdzbMmFYqp&sig=36gaNvN8cC3dsnILG94t12ZUxjQ
+          Year 1949
+     Citations 251
+      Versions 0
+    Cluster ID 11297380142429183414
+Citations list http://scholar.google.com/scholar?cites=11297380142429183414&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt The gravitational field manifests itself in the motion of bodies. Therefore the problem of determining the motion of such bodies from the field equations alone is of fundamental importance. This problem was solved for the first time some ten years ago and then 
+
+         Title “Let me briefly indicate why I do not find this standpoint natural.” Einstein, General Relativity, and the Contingent A Priori
+           URL http://books.google.com/books?hl=en&lr=&id=ar7RK8xtJgYC&oi=fnd&pg=PA333&dq=Einstein%25general+-tool&ots=m6_1JkEJcs&sig=7JlH1kHA_WNk6U_xy7ilS3aHmrY
+          Year 2010
+     Citations 17
+      Versions 9
+    Cluster ID 3813832387641637583
+Citations list http://scholar.google.com/scholar?cites=3813832387641637583&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=3813832387641637583&hl=en&as_sdt=0,5
+       Excerpt In his recent Dynamics of Reason (Friedman 2001) and other writings (see, especially, Friedman 2002a, 2002b), Michael Friedman urges the reintroduction of a robust notion of the a priori within the philosophy of science as a bulwark against the relativism that many 
 
