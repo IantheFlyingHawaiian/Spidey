@@ -17,16 +17,18 @@ import re
 
 def searchGoogle(textSearch, badWordsQuery):
     print("Starting Google Scholar Search")
-    print '------Textsearch: {}   badword: {}   ------------------\n'.format(textSearch, badWordsQuery)
+    print '------Textsearch: {} badword: {} ---------------------\n'.format(textSearch, badWordsQuery)
     #TODO replace all spaces with % for query
     textSearch = textSearch.replace(" ", "%")
     #os.system("python scholar.py -c 30 --count 40 --phrase %s > output.txt" % textSearch)
     badword = badWordsQuery.replace(" ", "%")
     #results will have some of these words
     if badWordsQuery is '':
-        os.system("python scholar.py -c 40 --count 40 --some %s > output.txt" % textSearch)
+        print 'EMPTY bad words query: %s' % badWordsQuery
+        os.system("python scholar.py -c 10 --count 10 --some %s > output.txt" % textSearch)
     else:
-        os.system("python scholar.py -c 40 --count 40 --some %s --none %s > output.txt" % (textSearch, badword))
+        print ' badWOrdsquery: %s' % badWordsQuery
+        os.system("python scholar.py -c 10 --count 10 --some %s --none %s > output.txt" % (textSearch, badword))
     #cmd = "scholar.py -c 10 --phrase %s > output.txt" % textSearch
     #cmd = cmd.split()
     #subprocess.call(cmd, shell=False)
@@ -66,6 +68,16 @@ def displayUrl(array, researchObjects):
                 print researchObjects[count][0]['URL']
                 url = researchObjects[count][0]['URL']
                 webpage = url.split()[1]
+                print '----------WEBPAGE: {}'.format(webpage)
+                #check for two http and remove if so
+                if webpage.count("http") is 2:
+                    print 'we have double http, remove first one'
+                    groups = webpage.split('https')
+                    print groups
+                    url = 'http'+groups[1]
+                    print 'GROUPS: {}    url: {}'.format(groups,url)
+                    webpage = url
+                
                 webbrowser.open(webpage)
                 documentsDisplayID.append(count)
         else:
@@ -141,9 +153,8 @@ def leastCommonWords(word_list):
    #return documentlist
 
 def run(textSearch, badWordsQuery):
-    
+   textSearch = textSearch.lower()
    print '\n--------------- Start of Search: {}  {}-------------------\n\n'.format(textSearch, badWordsQuery)
-
    searchGoogle(textSearch, badWordsQuery)
    time.sleep(1)
    print "Enter in keywords for the tfidf"
@@ -243,7 +254,7 @@ def main(argv):
    performanceAvg = 0.0
    searchCount = 0
    running = True
-   badWordsQuery = ' '
+   badWordsQuery = ''
    badWords = ' '
     
     
@@ -274,7 +285,7 @@ def main(argv):
        
        #remove numbers from badWords
        badWords = values[2]
-       if badWords[0] is not None:
+       if badWords is not None:
            badWords = removeNumbersFromList(badWords)
        
        print '\nGOOD WORDS FROM RUN: {}'.format(commonWords)
@@ -300,6 +311,7 @@ def main(argv):
             words = removeNumbersFromList(words)
             print '\n----------------common words without numbers----------\n'
             print words
+            textSearch = textSearch.lower()
             currentSearch = textSearch.split()
             print currentSearch
             
