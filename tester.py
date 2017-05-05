@@ -202,8 +202,12 @@ def run(textSearch):
    return values
   
 def removeNumbersFromList(mylist):
-    listNoInt = [x for x in mylist if not isinstance(x, int)]
-    return listNoInt
+    array = []
+    for x in mylist:
+        print 'X: {}'.format(x)
+        listNoInt = x[0]
+        array.append(listNoInt)
+    return array
 
 def main(argv):
    #initialize Nltk
@@ -253,8 +257,8 @@ def main(argv):
            print 'Performance performanced below threshold: %d' % performanceMetricThreshold
            if commonWords[0] is None:
                break;
-           print 'COMMON WORDS: {}'.format(commonWords[0])
-           words = commonWords[0]
+           print 'COMMON WORDS: {}'.format(commonWords)
+           words = commonWords
            print '-----------common words------'
            print words
            
