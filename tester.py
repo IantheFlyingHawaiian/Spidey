@@ -15,14 +15,18 @@ import re
 
 
 
-def searchGoogle(textSearch):
+def searchGoogle(textSearch, badWordsQuery):
     print("Starting Google Scholar Search")
+    print '------Textsearch: {}   badword: {}   ------------------\n'.format(textSearch, badWordsQuery)
     #TODO replace all spaces with % for query
     textSearch = textSearch.replace(" ", "%")
     #os.system("python scholar.py -c 30 --count 40 --phrase %s > output.txt" % textSearch)
-    badword = "tool"
+    badword = badWordsQuery.replace(" ", "%")
     #results will have some of these words
-    os.system("python scholar.py -c 10 --count 10 --some %s --none %s > output.txt" % (textSearch, badword))
+    if badWordsQuery is '':
+        os.system("python scholar.py -c 40 --count 40 --some %s > output.txt" % textSearch)
+    else:
+        os.system("python scholar.py -c 40 --count 40 --some %s --none %s > output.txt" % (textSearch, badword))
     #cmd = "scholar.py -c 10 --phrase %s > output.txt" % textSearch
     #cmd = cmd.split()
     #subprocess.call(cmd, shell=False)
@@ -136,11 +140,11 @@ def leastCommonWords(word_list):
    #    documentlist.append(table.wordListToFreqDict(str1Stopped))
    #return documentlist
 
-def run(textSearch):
+def run(textSearch, badWordsQuery):
     
-   print '\n--------------- Start of Search: {} -------------------\n\n'.format(textSearch)
+   print '\n--------------- Start of Search: {}  {}-------------------\n\n'.format(textSearch, badWordsQuery)
 
-   searchGoogle(textSearch)
+   searchGoogle(textSearch, badWordsQuery)
    time.sleep(1)
    print "Enter in keywords for the tfidf"
    keywords = raw_input()
@@ -233,13 +237,13 @@ def removeNumbersFromList(mylist):
     return array
 
 def main(argv):
-   #initialize Nltk
-   #setupNltk()
-   performanceMetricThreshold = 60
+   #PERCENTAGE THRESHOLD TO EITHER ADD TO ORIGINAL QUERY OR KEEP ORIGINAL WITH NEW KEYWORDS
+   #NOTE: each new search will the bad words appended to the end of their search
+   performanceMetricThreshold = 70
    performanceAvg = 0.0
    searchCount = 0
    running = True
-   badWordsQuery = '-n '
+   badWordsQuery = ' '
    badWords = ' '
     
     
@@ -262,7 +266,7 @@ def main(argv):
    print ('Output file is "%s"' % outputfile)
    
    while(1):
-       values = run(textSearch)
+       values = run(textSearch, badWordsQuery)
        print '----------values------------'
        print values
        currentPerformance = values[0]
@@ -284,35 +288,36 @@ def main(argv):
        
        if(performanceAvg < performanceMetricThreshold):
            print 'Performance performanced below threshold: %d' % performanceMetricThreshold
-           if commonWords[0] is None:
+           if commonWords is None:
                break;
-           print 'COMMON WORDS: {}'.format(commonWords)
-           words = commonWords
-           print '-----------common words------'
-           print words
-           
-           print 'REMOVE numbers from common list'
-           words = removeNumbersFromList(words)
-           print '\n----------------common words without numbers----------\n'
-           print words
-           currentSearch = textSearch.split()
-           print currentSearch
-           
-           
-           wordFound = False
-           for word in words:
-               if(wordFound):
-                   break;
-               print word
-               
-               if word not in currentSearch:
-                   if not wordFound:
-                       textSearch = textSearch + ' ' +  word
-                       wordFound = True
-                   else:
-                       break;
-                   print '\n-----------------added word, new textSearch: %s ------------\n' % textSearch
-           
+           else:
+            print 'COMMON WORDS: {}'.format(commonWords)
+            words = commonWords
+            print '-----------common words------'
+            print words
+            
+            print 'REMOVE numbers from common list'
+            words = removeNumbersFromList(words)
+            print '\n----------------common words without numbers----------\n'
+            print words
+            currentSearch = textSearch.split()
+            print currentSearch
+            
+            
+            wordFound = False
+            for word in words:
+                if(wordFound):
+                    break;
+                print word
+                
+                if word not in currentSearch:
+                    if not wordFound:
+                        textSearch = textSearch + ' ' +  word
+                        wordFound = True
+                    else:
+                        break;
+                    print '\n-----------------added word, new textSearch: %s ------------\n' % textSearch
+            
            #add bad words to bad words search
            for badWord in badWords:
                badWordsQuery = badWordsQuery + ' ' + badWord
@@ -329,7 +334,7 @@ def main(argv):
                badWordsQuery = badWordsQuery + ' ' + badWord
            print 'bad word query {}'.format(badWordsQuery)
            print '\n--------------- END OF SEARCH-------------------\n\n'
-           var = raw_input("/nWould you like to Continue Searching? (yes or no) ")
+           var = raw_input("\nWould you like to Continue Searching? (yes or no) ")
            var = var.lower()
            if var == 'yes':
               print 'User liked this Document'

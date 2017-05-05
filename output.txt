@@ -1,5 +1,43 @@
+         Title Can quantum-mechanical description of physical reality be considered complete?
+           URL http://scholar.google.com/https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
+          Year 1935
+     Citations 15487
+      Versions 118
+    Cluster ID 8174092782678430881
+Citations list http://scholar.google.com/scholar?cites=8174092782678430881&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=8174092782678430881&hl=en&as_sdt=0,5
+       Excerpt Abstract In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical 
+
+         Title The meaning of relativity
+          Year 1956
+     Citations 3118
+      Versions 56
+    Cluster ID 2633145968337492928
+Citations list http://scholar.google.com/scholar?cites=2633145968337492928&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2633145968337492928&hl=en&as_sdt=0,5
+
+         Title Investigations on the Theory of the Brownian Movement
+           URL http://books.google.com/books?hl=en&lr=&id=X5iRDQAAQBAJ&oi=fnd&pg=PA139&dq=Einstein+-%25&ots=-UX3g77CDl&sig=uT2bgDpLMQRDMirmZbi7lizrLCE
+          Year 1956
+     Citations 4180
+      Versions 5
+    Cluster ID 13746912682491308133
+Citations list http://scholar.google.com/scholar?cites=13746912682491308133&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=13746912682491308133&hl=en&as_sdt=0,5
+       Excerpt The" Brownian movement" was first described in 1828 by the botanist Robert Brown. While investigating the pollen of several different plants, he observed that pollen dispersed in water in a great number of small particles which he perceived to be in uninterrupted and 
+
+         Title The bed-load function for sediment transportation in open channel flows
+           URL http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.1381&rep=rep1&type=pdf#page=40
+          Year 1950
+     Citations 2380
+      Versions 66
+    Cluster ID 11791757726509093391
+Citations list http://scholar.google.com/scholar?cites=11791757726509093391&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=11791757726509093391&hl=en&as_sdt=0,5
+       Excerpt Sedimentation is one of the critical factors in the development, use, and management of water resources. This has long been recognized in Illinois. No state agency has carried out a more constructive program of sedimentation investigations nor over a longer period of time 
+
          Title Relativity: The special and the general theory
-           URL http://books.google.com/books?hl=en&lr=&id=xNiqBwAAQBAJ&oi=fnd&pg=PP1&dq=Einstein%25general+-tool&ots=ynezlQj8CM&sig=enjGA9ZvVXPIBpFmXzaWUhfItQI
+           URL http://books.google.com/books?hl=en&lr=&id=xNiqBwAAQBAJ&oi=fnd&pg=PP1&dq=Einstein+-%25&ots=ynezmHfcEQ&sig=QiNs-7F9ArWo7we2KQ-aLgotZb8
           Year 2015
      Citations 2603
       Versions 92
@@ -8,8 +46,58 @@ Citations list http://scholar.google.com/scholar?cites=8349134514512365633&as_sd
  Versions list http://scholar.google.com/scholar?cluster=8349134514512365633&hl=en&as_sdt=0,5
        Excerpt After completing the final version of his general theory of relativity in November 1915, Albert Einstein wrote a book about relativity for a popular audience. His intention was" to give an exact insight into the theory of relativity to those readers who, from a general scientific and 
 
+         Title The collected papers of Albert Einstein
+           URL http://books.google.com/books?hl=en&lr=&id=J-zv71syXJMC&oi=fnd&pg=PR11&dq=Einstein+-%25&ots=2Di-45pMEa&sig=iR1mkdWfnmItAT8ctrCS7xEpkBk
+          Year 1989
+     Citations 653
+      Versions 13
+    Cluster ID 6706908336481689418
+Citations list http://scholar.google.com/scholar?cites=6706908336481689418&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6706908336481689418&hl=en&as_sdt=0,5
+       Excerpt Every document in The Collected Papers of Albert Einstein appears in the language in which it was written, and this supplementary paperback volume presents the English translations of all non-English materials. This translation does not include notes or 
+
+         Title Autobiography
+           URL http://www.jstor.org/stable/pdf/742223.pdf
+          Year 1949
+     Citations 1647
+      Versions 0
+    Cluster ID 3539090869464550000
+      PDF link http://www.jstor.org/stable/pdf/742223.pdf
+Citations list http://scholar.google.com/scholar?cites=3539090869464550000&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt IN early 1979, Eva H. Einstein was sifting through the person pers of her late father when she made a startling discovery fred Einstein's own rough typescript of the first two chapte projected autobiography. The family had known nothing of writing while the musicologist 
+
+         Title Ideas and opinions
+           URL http://books.google.com/books?hl=en&lr=&id=9fJkBqwDD3sC&oi=fnd&pg=PA3&dq=Einstein+-%25&ots=YmGjvxNG3A&sig=vPNvxDdwewApmN7CVok6A8JUZWc
+          Year 1995
+     Citations 1676
+      Versions 4
+    Cluster ID 7484402160867926141
+Citations list http://scholar.google.com/scholar?cites=7484402160867926141&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7484402160867926141&hl=en&as_sdt=0,5
+       Excerpt A new edition of the most definitive collection of Albert Einstein's popular writings, gathered under the supervision of Einstein himself. The selections range from his earliest days as a theoretical physicist to his death in 1955; from such subjects as relativity, nuclear war or 
+
+         Title Estimating risk of cancer associated with radiation exposure from 64-slice computed tomography coronary angiography
+           URL http://jamanetwork.com/journals/jama/fullarticle/208021
+          Year 2007
+     Citations 1377
+      Versions 19
+    Cluster ID 6829692673079820513
+Citations list http://scholar.google.com/scholar?cites=6829692673079820513&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6829692673079820513&hl=en&as_sdt=0,5
+       Excerpt Objectives To determine the LAR of cancer incidence associated with radiation exposure from a 64-slice CTCA study and to evaluate the influence of age, sex, and scan protocol on cancer risk. Design, Setting, and Patients Organ doses from 64-slice CTCA to standardized 
+
+         Title The Universe and Dr. Einstein
+           URL http://books.google.com/books?hl=en&lr=&id=QuJQdu_fUqcC&oi=fnd&pg=PP1&dq=Einstein+-%25&ots=ZJqBV2jWXY&sig=hRELkYn5LNSKJ54M6nInAa2oxig
+          Year 2005
+     Citations 442
+      Versions 6
+    Cluster ID 15317244643960906689
+Citations list http://scholar.google.com/scholar?cites=15317244643960906689&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15317244643960906689&hl=en&as_sdt=0,5
+       Excerpt In the century since the publication of the special theory of relativity, there remains a tendency to venerate Einstein's genius without actually understanding his achievement. This book offers the opportunity to truly comprehend the workings of one of humanity's greatest 
+
          Title The principle of relativity: a collection of original memoirs on the special and general theory of relativity
-           URL http://books.google.com/books?hl=en&lr=&id=S1dmLWLhdqAC&oi=fnd&pg=PA1&dq=Einstein%25general+-tool&ots=gDVxz7SjZR&sig=gVFZv_QZ1w95K3f_k0xI98QmnuQ
+           URL http://books.google.com/books?hl=en&lr=&id=S1dmLWLhdqAC&oi=fnd&pg=PA1&dq=Einstein+-%25&ots=gDVxA_On-V&sig=rH9LHyM6o5V64mpcHzdl6VlNNcA
           Year 1952
      Citations 1258
       Versions 4
@@ -17,6 +105,78 @@ Citations list http://scholar.google.com/scholar?cites=8349134514512365633&as_sd
 Citations list http://scholar.google.com/scholar?cites=12709154330613267777&as_sdt=2005&sciodt=0,5&hl=en
  Versions list http://scholar.google.com/scholar?cluster=12709154330613267777&hl=en&as_sdt=0,5
        Excerpt This collection of original papers on the special and general theories of relativity is an unabridged translation of the 4th edition of Das Relativitatsprinzip, together with a revised edition of an additional paper by HA Lorentz. CONTENTS: I." Michelson's Interference 
+
+         Title Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat
+           URL http://old.stat.duke.edu/courses/Spring12/sta357/refs/Eins1905EN.pdf
+          Year 1905
+     Citations 1114
+      Versions 8
+    Cluster ID 17058578111046495959
+      PDF link http://old.stat.duke.edu/courses/Spring12/sta357/refs/Eins1905EN.pdf
+Citations list http://scholar.google.com/scholar?cites=17058578111046495959&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=17058578111046495959&hl=en&as_sdt=0,5
+       Excerpt It will be shown in this paper that, according to the m0lecular—kinetic theory of heat, bodies of microscopically visible size suspended in liquids must, as a result of thermal molecular motions, perform motions of such magnitude that these motions can easily be detected by a 
+
+         Title Normal aging and prospective memory.
+           URL http://psycnet.apa.org/journals/xlm/16/4/717/
+          Year 1990
+     Citations 1220
+      Versions 13
+    Cluster ID 15776095553050627594
+Citations list http://scholar.google.com/scholar?cites=15776095553050627594&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15776095553050627594&hl=en&as_sdt=0,5
+       Excerpt Abstract 1. We develop a laboratory paradigm for studying prospective memory and examine whether or not this type of memory is especially difficult for the elderly. In two experiments, young and old subjects were given a prospective memory test (they were 
+
+         Title Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?
+           URL http://onlinelibrary.wiley.com/doi/10.1002/andp.19053231314/full
+          Year 1905
+     Citations 851
+      Versions 4
+    Cluster ID 908327149963432204
+Citations list http://scholar.google.com/scholar?cites=908327149963432204&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=908327149963432204&hl=en&as_sdt=0,5
+       Excerpt Es befinde sich nun im System (x, y, z) eiii ruheiidw Kiirper, dessen Energie-auf das System (x, y, L) bezogen-Eo sei. Relativ zu dem wie oben mit der Geschwindigkeit 17 bewegten System 0, q, 5) sei die Energie des Korpers H,. Dieser Kiirper sende in einer mit der x-Achse 
+
+         Title 252 THE RELATIVITY PRINCIPLE
+           URL http://einsteinrelativityphysicstheory.com/pdfs/Einstein_1907_the_relativity_principle.pdf
+          Year 1907
+     Citations 949
+      Versions 14
+    Cluster ID 823789073669848460
+      PDF link http://einsteinrelativityphysicstheory.com/pdfs/Einstein_1907_the_relativity_principle.pdf
+Citations list http://scholar.google.com/scholar?cites=823789073669848460&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=823789073669848460&hl=en&as_sdt=0,5
+       Excerpt As long as one believed that all of physics gas E9, fundedi9n Newtonls equatiOns of metiont one therefore could not d0ubt that the laws of nature are the same without regard to which of the coordinate systems moving uniformly (without acceleration) relative to each other they 
+
+         Title Exposure to low-dose ionizing radiation from medical imaging procedures
+           URL http://www.nejm.org/doi/full/10.1056/nejmoa0901249
+          Year 2009
+     Citations 1021
+      Versions 23
+    Cluster ID 16060325012458358658
+Citations list http://scholar.google.com/scholar?cites=16060325012458358658&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16060325012458358658&hl=en&as_sdt=0,5
+       Excerpt Background The growing use of imaging procedures in the United States has raised concerns about exposure to low-dose ionizing radiation in the general population. Methods We identified 952,420 nonelderly adults (between 18 and 64 years of age) in five health 
+
+         Title On the electrodynamics of moving bodies
+           URL http://libarch.nmu.org.ua/bitstream/handle/GenofondUA/15225/8e2d4749c2d5a07f75b84d0158ad76ad.pdf?sequence=1
+          Year 1905
+     Citations 961
+      Versions 141
+    Cluster ID 8053935303508980710
+Citations list http://scholar.google.com/scholar?cites=8053935303508980710&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=8053935303508980710&hl=en&as_sdt=0,5
+       Excerpt It is known that Maxwell's electrodynamics—as usually understood at the present time—when applied to moving bodies, leads to asymmetries which do not appear to be inherent in the phenomena. Take, for example, the reciprocal electrodynamic action of a magnet and a 
+
+         Title The gravitational equations and the problem of motion
+           URL http://www.jstor.org/stable/1968714
+          Year 1938
+     Citations 901
+      Versions 4
+    Cluster ID 15597084872061545949
+Citations list http://scholar.google.com/scholar?cites=15597084872061545949&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15597084872061545949&hl=en&as_sdt=0,5
+       Excerpt Previous attacks on this problem'have been based upon gravitational equations in which some specific energy-momentum tensor for matter has been assumed. Such energy-momentum tensors, however, must be regarded as purely temporary and more or less 
 
          Title The general theory of relativity
            URL http://link.springer.com/chapter/10.1007/978-94-011-6022-3_3
@@ -28,70 +188,13 @@ Citations list http://scholar.google.com/scholar?cites=1585408944786949537&as_sd
  Versions list http://scholar.google.com/scholar?cluster=1585408944786949537&hl=en&as_sdt=0,5
        Excerpt Abstract All of the previous considerations have been based upon the assumption that all inertial systems are equivalent for the description of physical phenomena, but that they are preferred, for the formulation of the laws of nature, to spaces of reference in a different state 
 
-         Title The particle problem in the general theory of relativity
-           URL http://scholar.google.com/https://journals.aps.org/pr/abstract/10.1103/PhysRev.48.73
-          Year 1935
-     Citations 720
-      Versions 11
-    Cluster ID 12603935438060482309
-Citations list http://scholar.google.com/scholar?cites=12603935438060482309&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=12603935438060482309&hl=en&as_sdt=0,5
-       Excerpt Abstract The writers investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the field, makes use of no other variables than the g μ ν of the general relativity theory and the ϕ μ of the Maxwell theory. By the consideration of a 
-
-         Title Mechanics from Aristotle to Einstein
-           URL http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
-          Year 2007
-     Citations 15
-      Versions 0
-    Cluster ID 8687171702194005139
-      PDF link http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
-Citations list http://scholar.google.com/scholar?cites=8687171702194005139&as_sdt=2005&sciodt=0,5&hl=en
-       Excerpt Page 1. Mechanics from Aristotle to Einstein BOOK DETAILS • Author : Michael J ...BOOK SYNOPSIS MECHANICS FROM ARISTOTLE TO EINSTEIN - Are you lookingfor Ebook Mechanics From Aristotle To Einstein? You will be ...
-
-         Title Einstein, general relativity, and the german press, 1919-1920
-           URL http://www.journals.uchicago.edu/doi/pdfplus/10.1086/354042
-          Year 1986
-     Citations 18
-      Versions 5
-    Cluster ID 2621463786752148543
-Citations list http://scholar.google.com/scholar?cites=2621463786752148543&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=2621463786752148543&hl=en&as_sdt=0,5
-       Excerpt Figure 1. Announcement in the Vossische Zeitung, 21 July 1919, of the report in Nature of the successful measurements of the solar eclipse. lecture" Basic Ideas of Relativity Theory," which mentioned the coming solar eclipse for the first time. Even earlier Einstein was better 
-
-         Title Cosmological considerations on the general theory of relativity
-           URL http://adsabs.harvard.edu/abs/1952prel.book..175E
-          Year 1952
-     Citations 315
-      Versions 2
-    Cluster ID 2568546474801535936
-Citations list http://scholar.google.com/scholar?cites=2568546474801535936&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=2568546474801535936&hl=en&as_sdt=0,5
-       Excerpt Title: Cosmological considerations on the general theory of relativity. Authors: Einstein,A. Publication: The Principle of Relativity. Dover Books on Physics. June 1, 1952. 240pages. 0486600815 , p. 175-188. Publication Date: 00/1952. Origin: AUTHOR.
-
-         Title The meaning of relativity
-          Year 1956
-     Citations 3118
-      Versions 56
-    Cluster ID 2633145968337492928
-Citations list http://scholar.google.com/scholar?cites=2633145968337492928&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=2633145968337492928&hl=en&as_sdt=0,5
-
-         Title On the motion of particles in general relativity theory
-           URL http://books.google.com/books?hl=en&lr=&id=5Z83BQAAQBAJ&oi=fnd&pg=PA175&dq=Einstein%25general+-tool&ots=FdzbMsMVuu&sig=czpzpu790gbBhaTCTwZDi8Od3Ho
-          Year 1949
-     Citations 252
-      Versions 0
-    Cluster ID 11297380142429183414
-Citations list http://scholar.google.com/scholar?cites=11297380142429183414&as_sdt=2005&sciodt=0,5&hl=en
-       Excerpt The gravitational field manifests itself in the motion of bodies. Therefore the problem of determining the motion of such bodies from the field equations alone is of fundamental importance. This problem was solved for the first time some ten years ago and then 
-
-         Title “Let me briefly indicate why I do not find this standpoint natural.” Einstein, General Relativity, and the Contingent A Priori
-           URL http://books.google.com/books?hl=en&lr=&id=ar7RK8xtJgYC&oi=fnd&pg=PA333&dq=Einstein%25general+-tool&ots=m6_1JqLGgx&sig=TaRtyNrhwjoO0DBqWJes_4NjI30
-          Year 2010
-     Citations 17
-      Versions 9
-    Cluster ID 3813832387641637583
-Citations list http://scholar.google.com/scholar?cites=3813832387641637583&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=3813832387641637583&hl=en&as_sdt=0,5
-       Excerpt In his recent Dynamics of Reason (Friedman 2001) and other writings (see, especially, Friedman 2002a, 2002b), Michael Friedman urges the reintroduction of a robust notion of the a priori within the philosophy of science as a bulwark against the relativism that many 
+         Title Strategic and automatic processes in prospective memory retrieval: A multiprocess framework
+           URL http://onlinelibrary.wiley.com/doi/10.1002/acp.775/full
+          Year 2000
+     Citations 794
+      Versions 6
+    Cluster ID 15901562685763636197
+Citations list http://scholar.google.com/scholar?cites=15901562685763636197&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15901562685763636197&hl=en&as_sdt=0,5
+       Excerpt Abstract Prospective memory situations involve forming intentions and then realizing those intentions at some appropriate time in the future. An interesting feature of most prospective remembering is that recollection of the intended action occurs without an explicit request to 
 
