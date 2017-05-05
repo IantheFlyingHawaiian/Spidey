@@ -1,95 +1,97 @@
          Title Relativity: The special and the general theory
-           URL http://books.google.com/books?hl=en&lr=&id=xNiqBwAAQBAJ&oi=fnd&pg=PP1&dq=Einstein%25general%25relativity%25einstein%27s%25einstein%25theory%25theory+OR+%25motion+-tool&ots=ynezlQeeBO&sig=KDjWj4viNiOlRPpJ3QpnhGUE4WE
+           URL http://books.google.com/books?hl=en&lr=&id=xNiqBwAAQBAJ&oi=fnd&pg=PP1&dq=Einstein%25general+-tool&ots=ynezlQj8CM&sig=enjGA9ZvVXPIBpFmXzaWUhfItQI
           Year 2015
-     Citations 2602
+     Citations 2603
       Versions 92
     Cluster ID 8349134514512365633
 Citations list http://scholar.google.com/scholar?cites=8349134514512365633&as_sdt=2005&sciodt=0,5&hl=en
  Versions list http://scholar.google.com/scholar?cluster=8349134514512365633&hl=en&as_sdt=0,5
        Excerpt After completing the final version of his general theory of relativity in November 1915, Albert Einstein wrote a book about relativity for a popular audience. His intention was" to give an exact insight into the theory of relativity to those readers who, from a general scientific and 
 
+         Title The principle of relativity: a collection of original memoirs on the special and general theory of relativity
+           URL http://books.google.com/books?hl=en&lr=&id=S1dmLWLhdqAC&oi=fnd&pg=PA1&dq=Einstein%25general+-tool&ots=gDVxz7SjZR&sig=gVFZv_QZ1w95K3f_k0xI98QmnuQ
+          Year 1952
+     Citations 1258
+      Versions 4
+    Cluster ID 12709154330613267777
+Citations list http://scholar.google.com/scholar?cites=12709154330613267777&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12709154330613267777&hl=en&as_sdt=0,5
+       Excerpt This collection of original papers on the special and general theories of relativity is an unabridged translation of the 4th edition of Das Relativitatsprinzip, together with a revised edition of an additional paper by HA Lorentz. CONTENTS: I." Michelson's Interference 
+
+         Title The general theory of relativity
+           URL http://link.springer.com/chapter/10.1007/978-94-011-6022-3_3
+          Year 1922
+     Citations 882
+      Versions 3
+    Cluster ID 1585408944786949537
+Citations list http://scholar.google.com/scholar?cites=1585408944786949537&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=1585408944786949537&hl=en&as_sdt=0,5
+       Excerpt Abstract All of the previous considerations have been based upon the assumption that all inertial systems are equivalent for the description of physical phenomena, but that they are preferred, for the formulation of the laws of nature, to spaces of reference in a different state 
+
+         Title The particle problem in the general theory of relativity
+           URL http://scholar.google.com/https://journals.aps.org/pr/abstract/10.1103/PhysRev.48.73
+          Year 1935
+     Citations 720
+      Versions 11
+    Cluster ID 12603935438060482309
+Citations list http://scholar.google.com/scholar?cites=12603935438060482309&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12603935438060482309&hl=en&as_sdt=0,5
+       Excerpt Abstract The writers investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the field, makes use of no other variables than the g μ ν of the general relativity theory and the ϕ μ of the Maxwell theory. By the consideration of a 
+
+         Title Mechanics from Aristotle to Einstein
+           URL http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
+          Year 2007
+     Citations 15
+      Versions 0
+    Cluster ID 8687171702194005139
+      PDF link http://dejeli.s3.amazonaws.com/Download%20Mechanics%20from%20Aristotle%20to%20Einstein.pdf
+Citations list http://scholar.google.com/scholar?cites=8687171702194005139&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt Page 1. Mechanics from Aristotle to Einstein BOOK DETAILS • Author : Michael J ...BOOK SYNOPSIS MECHANICS FROM ARISTOTLE TO EINSTEIN - Are you lookingfor Ebook Mechanics From Aristotle To Einstein? You will be ...
+
+         Title Einstein, general relativity, and the german press, 1919-1920
+           URL http://www.journals.uchicago.edu/doi/pdfplus/10.1086/354042
+          Year 1986
+     Citations 18
+      Versions 5
+    Cluster ID 2621463786752148543
+Citations list http://scholar.google.com/scholar?cites=2621463786752148543&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2621463786752148543&hl=en&as_sdt=0,5
+       Excerpt Figure 1. Announcement in the Vossische Zeitung, 21 July 1919, of the report in Nature of the successful measurements of the solar eclipse. lecture" Basic Ideas of Relativity Theory," which mentioned the coming solar eclipse for the first time. Even earlier Einstein was better 
+
+         Title Cosmological considerations on the general theory of relativity
+           URL http://adsabs.harvard.edu/abs/1952prel.book..175E
+          Year 1952
+     Citations 315
+      Versions 2
+    Cluster ID 2568546474801535936
+Citations list http://scholar.google.com/scholar?cites=2568546474801535936&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=2568546474801535936&hl=en&as_sdt=0,5
+       Excerpt Title: Cosmological considerations on the general theory of relativity. Authors: Einstein,A. Publication: The Principle of Relativity. Dover Books on Physics. June 1, 1952. 240pages. 0486600815 , p. 175-188. Publication Date: 00/1952. Origin: AUTHOR.
+
          Title The meaning of relativity
           Year 1956
-     Citations 3117
+     Citations 3118
       Versions 56
     Cluster ID 2633145968337492928
 Citations list http://scholar.google.com/scholar?cites=2633145968337492928&as_sdt=2005&sciodt=0,5&hl=en
  Versions list http://scholar.google.com/scholar?cluster=2633145968337492928&hl=en&as_sdt=0,5
 
-         Title Introducing Einstein's Relatvity
-           URL http://libarch.nmu.org.ua/handle/GenofondUA/18217
-     Citations 1040
-      Versions 5
-    Cluster ID 9960404546394968149
-Citations list http://scholar.google.com/scholar?cites=9960404546394968149&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=9960404546394968149&hl=en&as_sdt=0,5
-       Excerpt ... Date. 1899. Author. R. d'Inverno. Metadata. Show full item record. Abstract. There is little doubtthat Einstein's theory of relativity captures the imagination. ... Einstein's theory of relativity isundoubtedly one of the greatest achievements of the human mind. ...
-
-         Title Constrained dynamics with applications to Yang-Mills theory, general relativity, classical spin, dual string model
-           URL http://scholar.google.com/https://inis.iaea.org/search/search.aspx?orig_q=RN:14756633
-          Year 1982
-     Citations 869
-      Versions 4
-    Cluster ID 1257948076662317541
-Citations list http://scholar.google.com/scholar?cites=1257948076662317541&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=1257948076662317541&hl=en&as_sdt=0,5
-       Excerpt ... MECHANICS, COMMUTATION RELATIONS, DYNAMICS, EINSTEIN FIELD EQUATIONS ...ANALYSIS, GAUGE INVARIANCE, GENERAL RELATIVITY THEORY, GEOMETRY,GRAVITATIONAL ... SPACE, RELATIVISTIC RANGE, RELATIVITY THEORY, SECOND ...
-
-         Title Einstein. A centenary volume
-           URL http://scholar.google.com/https://inis.iaea.org/search/search.aspx?orig_q=RN:10453162
-          Year 1979
-     Citations 176
-      Versions 3
-    Cluster ID 10594666523834476103
-Citations list http://scholar.google.com/scholar?cites=10594666523834476103&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=10594666523834476103&hl=en&as_sdt=0,5
-       Excerpt ... and time); part 3, Einstein's letters; part 4, Einstein's writings (including ... OrganizationUnitedKingdom Descriptors (DEI)EQUIVALENCE PRINCIPLE, GENERAL RELATIVITY THEORY,GRAVITATION, QUANTUM MECHANICS, RELATIVITY THEORY, SPACE-TIME ...
-
-         Title Gravitation and cosmology: principles and applications of the general theory of relativity
-           URL http://contractinguniverse.com/standard-model/size-of-atoms-in-rw-universe/
-          Year 1972
-     Citations 12252
-      Versions 10
-    Cluster ID 8614495635066860666
-Citations list http://scholar.google.com/scholar?cites=8614495635066860666&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=8614495635066860666&hl=en&as_sdt=0,5
-       Excerpt ... Arnold Sommerfeld was the first one to derive the relativistic solution of atomic energy levels ...accepted Quantum mechanics while Sommerfeld equation was based on old quantum theorywhich was ... Which is same as predicted in general relativity [25] and has been confirmed by ...
-
          Title On the motion of particles in general relativity theory
-           URL http://books.google.com/books?hl=en&lr=&id=5Z83BQAAQBAJ&oi=fnd&pg=PA175&dq=Einstein%25general%25relativity%25einstein%27s%25einstein%25theory%25theory+OR+%25motion+-tool&ots=FdzbMsH-tw&sig=uTUUHlGK6JZ2UrS3M8DTvLk5T-E
+           URL http://books.google.com/books?hl=en&lr=&id=5Z83BQAAQBAJ&oi=fnd&pg=PA175&dq=Einstein%25general+-tool&ots=FdzbMsMVuu&sig=czpzpu790gbBhaTCTwZDi8Od3Ho
           Year 1949
-     Citations 251
+     Citations 252
       Versions 0
     Cluster ID 11297380142429183414
 Citations list http://scholar.google.com/scholar?cites=11297380142429183414&as_sdt=2005&sciodt=0,5&hl=en
        Excerpt The gravitational field manifests itself in the motion of bodies. Therefore the problem of determining the motion of such bodies from the field equations alone is of fundamental importance. This problem was solved for the first time some ten years ago and then 
 
-         Title Lichtgeschwindigkeit und statik des Gravitationsfeldes
-           URL http://onlinelibrary.wiley.com/doi/10.1002/andp.19123430704/full
-          Year 1912
-     Citations 148
-      Versions 3
-    Cluster ID 12388819611652552888
-Citations list http://scholar.google.com/scholar?cites=12388819611652552888&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=12388819611652552888&hl=en&as_sdt=0,5
-       Excerpt In einer letztes Jahr erschienenen Arbeitl) habe ich aus der Hypothese, daB Schwerefeld und Beschleunigungszustand des Koordinatensystems physikalisch gleichwertig seien, einige Folgerungeu gezogen, welche sich den Ergebnissen der Relativitatstheorie (Theorie 
-
-         Title Einstein's theory of gravitation and flat space
-           URL http://www.jstor.org/stable/20488488
-          Year 1948
-     Citations 459
-      Versions 0
-    Cluster ID 59571756482112938
-Citations list http://scholar.google.com/scholar?cites=59571756482112938&as_sdt=2005&sciodt=0,5&hl=en
-       Excerpt ... org/terms Page 5. PAPAPETROU-Einstein's Theory of Gravitation and Flat Space.15 the rotation. But formally it may be applied to general relativity too, since theLagrange function of this theory = - tt }/,(3; ip a) (11) is a ...
-
-         Title Einstein and the history of general relativity
-           URL http://www.osti.gov/scitech/biblio/6505612
-          Year 1989
-     Citations 102
-      Versions 4
-    Cluster ID 8444153840371724216
-Citations list http://scholar.google.com/scholar?cites=8444153840371724216&as_sdt=2005&sciodt=0,5&hl=en
- Versions list http://scholar.google.com/scholar?cluster=8444153840371724216&hl=en&as_sdt=0,5
-       Excerpt ... Two other essays discuss Einstein's public and private exchanges with Max Abraham and Tullio ...paper presents a discussion on the state of the enterprise of general relativity between 1925 ... motionfrom the field equation and conservation laws of the general theory is presented. ...
+         Title “Let me briefly indicate why I do not find this standpoint natural.” Einstein, General Relativity, and the Contingent A Priori
+           URL http://books.google.com/books?hl=en&lr=&id=ar7RK8xtJgYC&oi=fnd&pg=PA333&dq=Einstein%25general+-tool&ots=m6_1JqLGgx&sig=TaRtyNrhwjoO0DBqWJes_4NjI30
+          Year 2010
+     Citations 17
+      Versions 9
+    Cluster ID 3813832387641637583
+Citations list http://scholar.google.com/scholar?cites=3813832387641637583&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=3813832387641637583&hl=en&as_sdt=0,5
+       Excerpt In his recent Dynamics of Reason (Friedman 2001) and other writings (see, especially, Friedman 2002a, 2002b), Michael Friedman urges the reintroduction of a robust notion of the a priori within the philosophy of science as a bulwark against the relativism that many 
 

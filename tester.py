@@ -107,7 +107,23 @@ def commonWords(word_list):
    c = Counter(word_list)
    print c.most_common(6)
    return c.most_common(6)
+
+def leastCommonWords(word_list):
+   print '\n---------------------LEAST COMMON WORDS----------------------\n'
+   c = Counter(word_list)
+   length = len(word_list)
+   print 'length: {}'.format(length)
+   least_common = c.most_common(length)
+   print least_common
+   least_common = tuple(reversed(least_common))
+   print '\n---------------------least_common reversed: ----------------------\n'
+   print 'reversed least_common: {}'.format(least_common)
    
+   #return the first 3 elements
+   
+   return least_common[0:1]
+      
+         
    #Remove the common words in documents disliked
    
    #for i in documents:
@@ -121,6 +137,9 @@ def commonWords(word_list):
    #return documentlist
 
 def run(textSearch):
+    
+   print '\n--------------- Start of Search: {} -------------------\n\n'.format(textSearch)
+
    searchGoogle(textSearch)
    time.sleep(1)
    print "Enter in keywords for the tfidf"
@@ -196,8 +215,12 @@ def run(textSearch):
    print commonWords2
    print '-------------------Bad Text: Find the Most Common Words-----------------------'
    print commonWords(badTextWords)
-   badWords2 = commonWords(badTextWords)
+   print '-------------------Bad Text: Find the Least Common Words-----------------------'
+   print leastCommonWords(badTextWords)
+   badWords2 = leastCommonWords(badTextWords)
    
+   print '/n--------------------BAD WORDS least common-------------------------/n'
+   print 'badwords2: {} '.format(badWords2)
    values = [t.performance, commonWords2, badWords2]
    return values
   
@@ -216,7 +239,8 @@ def main(argv):
    performanceAvg = 0.0
    searchCount = 0
    running = True
-   badWords = '-n '
+   badWordsQuery = '-n '
+   badWords = ' '
     
     
    textSearch = ''
@@ -243,7 +267,12 @@ def main(argv):
        print values
        currentPerformance = values[0]
        commonWords = values[1]
+       
+       #remove numbers from badWords
        badWords = values[2]
+       if badWords[0] is not None:
+           badWords = removeNumbersFromList(badWords)
+       
        print '\nGOOD WORDS FROM RUN: {}'.format(commonWords)
        print '\nBAD WORDS FROM RUN: {}'.format(badWords)
        if(searchCount == 0):
@@ -283,13 +312,24 @@ def main(argv):
                    else:
                        break;
                    print '\n-----------------added word, new textSearch: %s ------------\n' % textSearch
-                   
-            
+           
+           #add bad words to bad words search
+           for badWord in badWords:
+               badWordsQuery = badWordsQuery + ' ' + badWord
+           print 'bad word query: {}'.format(badWordsQuery)        
+           print '\n--------------- END OF SEARCH-------------------\n\n'
            #find most frequent word that isn't already in the title
            print 'Starting new search with %s ' % textSearch
            
        else:
-           var = raw_input("Would you like to Continue Searching? (yes or no) ")
+           
+           
+           #add bad words to bad words search
+           for badWord in badWords:
+               badWordsQuery = badWordsQuery + ' ' + badWord
+           print 'bad word query {}'.format(badWordsQuery)
+           print '\n--------------- END OF SEARCH-------------------\n\n'
+           var = raw_input("/nWould you like to Continue Searching? (yes or no) ")
            var = var.lower()
            if var == 'yes':
               print 'User liked this Document'
