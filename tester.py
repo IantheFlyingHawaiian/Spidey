@@ -333,7 +333,7 @@ def main(argv):
            #add bad words to bad words search
            for badWord in badWords:
                badWordsQuery = badWordsQuery + ' ' + badWord
-           print 'bad word query: {}'.format(badWordsQuery)        
+           print 'bad word/s removed from query: {}'.format(badWordsQuery)        
            print '\n--------------- END OF SEARCH-------------------\n\n'
            #find most frequent word that isn't already in the title
            print 'Starting new search with %s ' % textSearch
