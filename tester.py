@@ -157,7 +157,8 @@ def run(textSearch, badWordsQuery):
    print '\n--------------- Start of Search: {}  {}-------------------\n\n'.format(textSearch, badWordsQuery)
    searchGoogle(textSearch, badWordsQuery)
    time.sleep(1)
-   print "Enter in keywords for the tfidf"
+   #print "Enter in keywords for the tfidf"
+   print "Enter keyword/s for within your article topic"
    keywords = raw_input()
    keywords = keywords.split()
    #delay 20 seconds, wait for output.txt to be generated
