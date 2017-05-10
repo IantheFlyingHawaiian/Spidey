@@ -1,3 +1,49 @@
+Spidey
+==========
+
+Spidey - the Researcher Web Crawler of Google Scholar.py
+
+Spidey is a webcrawler that helps researchers find the most revelant articles for their research or topics of interest. 
+
+Examples
+--------
+
+Tell Spidey a topic of interest, in this case our topic of :
+
+python tester.py -i "Bioinformatics NeuroFeedback"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 scholar.py
 ==========
 
@@ -89,7 +135,7 @@ Let's retrieve a BibTeX entry for that quantum theory paper. The best BibTeX oft
 Report the total number of articles Google Scholar has for Einstein:
 
 
-Spidey - the Researcher Web Crawler 
+
     $ scholar.py --txt-globals --author "albert einstein" | grep '\[G\]' | grep Results
     [G]    Results 4190
 
