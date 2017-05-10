@@ -324,11 +324,12 @@ def main(argv):
                 
                 if word not in currentSearch:
                     if not wordFound:
+                        print '\n-----------------added word, new textSearch: %s ------------\n' % textSearch
                         textSearch = textSearch + ' ' +  word
                         wordFound = True
                     else:
                         break;
-                    print '\n-----------------added word, new textSearch: %s ------------\n' % textSearch
+                    
             
            #add bad words to bad words search
            for badWord in badWords:
